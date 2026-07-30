@@ -1,0 +1,2525 @@
+{
+  "10001": {
+    "name": "[Tracen Academy] Special Week",
+    "title": "[Tracen Academy]",
+    "chara": "Special Week"
+  },
+  "10002": {
+    "name": "[Tracen Academy] Silence Suzuka",
+    "title": "[Tracen Academy]",
+    "chara": "Silence Suzuka"
+  },
+  "10003": {
+    "name": "[Tracen Academy] Tokai Teio",
+    "title": "[Tracen Academy]",
+    "chara": "Tokai Teio"
+  },
+  "10004": {
+    "name": "[Tracen Academy] Maruzensky",
+    "title": "[Tracen Academy]",
+    "chara": "Maruzensky"
+  },
+  "10005": {
+    "name": "[Tracen Academy] Oguri Cap",
+    "title": "[Tracen Academy]",
+    "chara": "Oguri Cap"
+  },
+  "10006": {
+    "name": "[Tracen Academy] Gold Ship",
+    "title": "[Tracen Academy]",
+    "chara": "Gold Ship"
+  },
+  "10007": {
+    "name": "[Tracen Academy] Vodka",
+    "title": "[Tracen Academy]",
+    "chara": "Vodka"
+  },
+  "10008": {
+    "name": "[Tracen Academy] Taiki Shuttle",
+    "title": "[Tracen Academy]",
+    "chara": "Taiki Shuttle"
+  },
+  "10009": {
+    "name": "[Tracen Academy] Grass Wonder",
+    "title": "[Tracen Academy]",
+    "chara": "Grass Wonder"
+  },
+  "10010": {
+    "name": "[Tracen Academy] Mejiro McQueen",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro McQueen"
+  },
+  "10011": {
+    "name": "[Tracen Academy] El Condor Pasa",
+    "title": "[Tracen Academy]",
+    "chara": "El Condor Pasa"
+  },
+  "10012": {
+    "name": "[Tracen Academy] T.M. Opera O",
+    "title": "[Tracen Academy]",
+    "chara": "T.M. Opera O"
+  },
+  "10013": {
+    "name": "[Tracen Academy] Symboli Rudolf",
+    "title": "[Tracen Academy]",
+    "chara": "Symboli Rudolf"
+  },
+  "10014": {
+    "name": "[Tracen Academy] Seiun Sky",
+    "title": "[Tracen Academy]",
+    "chara": "Seiun Sky"
+  },
+  "10015": {
+    "name": "[Tracen Academy] Rice Shower",
+    "title": "[Tracen Academy]",
+    "chara": "Rice Shower"
+  },
+  "10016": {
+    "name": "[Tracen Academy] Winning Ticket",
+    "title": "[Tracen Academy]",
+    "chara": "Winning Ticket"
+  },
+  "10017": {
+    "name": "[Tracen Academy] Gold City",
+    "title": "[Tracen Academy]",
+    "chara": "Gold City"
+  },
+  "10018": {
+    "name": "[Tracen Academy] Sakura Bakushin O",
+    "title": "[Tracen Academy]",
+    "chara": "Sakura Bakushin O"
+  },
+  "10019": {
+    "name": "[Tracen Academy] Super Creek",
+    "title": "[Tracen Academy]",
+    "chara": "Super Creek"
+  },
+  "10020": {
+    "name": "[Tracen Academy] Haru Urara",
+    "title": "[Tracen Academy]",
+    "chara": "Haru Urara"
+  },
+  "10021": {
+    "name": "[Tracen Academy] Hayakawa Tazuna",
+    "title": "[Tracen Academy]",
+    "chara": "Hayakawa Tazuna"
+  },
+  "10022": {
+    "name": "[Tracen Academy] Kiryūin Aoi",
+    "title": "[Tracen Academy]",
+    "chara": "Kiryūin Aoi"
+  },
+  "10023": {
+    "name": "[Tracen Academy] Daiwa Scarlet",
+    "title": "[Tracen Academy]",
+    "chara": "Daiwa Scarlet"
+  },
+  "10024": {
+    "name": "[Tracen Academy] Hishi Amazon",
+    "title": "[Tracen Academy]",
+    "chara": "Hishi Amazon"
+  },
+  "10025": {
+    "name": "[Tracen Academy] Air Groove",
+    "title": "[Tracen Academy]",
+    "chara": "Air Groove"
+  },
+  "10026": {
+    "name": "[Tracen Academy] Agnes Digital",
+    "title": "[Tracen Academy]",
+    "chara": "Agnes Digital"
+  },
+  "10027": {
+    "name": "[Tracen Academy] Tamamo Cross",
+    "title": "[Tracen Academy]",
+    "chara": "Tamamo Cross"
+  },
+  "10028": {
+    "name": "[Tracen Academy] Fine Motion",
+    "title": "[Tracen Academy]",
+    "chara": "Fine Motion"
+  },
+  "10029": {
+    "name": "[Tracen Academy] Biwa Hayahide",
+    "title": "[Tracen Academy]",
+    "chara": "Biwa Hayahide"
+  },
+  "10030": {
+    "name": "[Tracen Academy] Mayano Top Gun",
+    "title": "[Tracen Academy]",
+    "chara": "Mayano Top Gun"
+  },
+  "10031": {
+    "name": "[Tracen Academy] Manhattan Cafe",
+    "title": "[Tracen Academy]",
+    "chara": "Manhattan Cafe"
+  },
+  "10032": {
+    "name": "[Tracen Academy] Mihono Bourbon",
+    "title": "[Tracen Academy]",
+    "chara": "Mihono Bourbon"
+  },
+  "10033": {
+    "name": "[Tracen Academy] Mejiro Ryan",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Ryan"
+  },
+  "10034": {
+    "name": "[Tracen Academy] Yukino Bijin",
+    "title": "[Tracen Academy]",
+    "chara": "Yukino Bijin"
+  },
+  "10035": {
+    "name": "[Tracen Academy] Ines Fujin",
+    "title": "[Tracen Academy]",
+    "chara": "Ines Fujin"
+  },
+  "10036": {
+    "name": "[Tracen Academy] Agnes Tachyon",
+    "title": "[Tracen Academy]",
+    "chara": "Agnes Tachyon"
+  },
+  "10037": {
+    "name": "[Tracen Academy] Air Shakur",
+    "title": "[Tracen Academy]",
+    "chara": "Air Shakur"
+  },
+  "10038": {
+    "name": "[Tracen Academy] Eishin Flash",
+    "title": "[Tracen Academy]",
+    "chara": "Eishin Flash"
+  },
+  "10039": {
+    "name": "[Tracen Academy] Smart Falcon",
+    "title": "[Tracen Academy]",
+    "chara": "Smart Falcon"
+  },
+  "10040": {
+    "name": "[Tracen Academy] Narita Taishin",
+    "title": "[Tracen Academy]",
+    "chara": "Narita Taishin"
+  },
+  "10041": {
+    "name": "[Tracen Academy] Nishino Flower",
+    "title": "[Tracen Academy]",
+    "chara": "Nishino Flower"
+  },
+  "10042": {
+    "name": "[Tracen Academy] Biko Pegasus",
+    "title": "[Tracen Academy]",
+    "chara": "Biko Pegasus"
+  },
+  "10043": {
+    "name": "[Tracen Academy] Marvelous Sunday",
+    "title": "[Tracen Academy]",
+    "chara": "Marvelous Sunday"
+  },
+  "10044": {
+    "name": "[Tracen Academy] Matikanefukukitaru",
+    "title": "[Tracen Academy]",
+    "chara": "Matikanefukukitaru"
+  },
+  "10045": {
+    "name": "[Tracen Academy] Meisho Doto",
+    "title": "[Tracen Academy]",
+    "chara": "Meisho Doto"
+  },
+  "10046": {
+    "name": "[Tracen Academy] Mejiro Dober",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Dober"
+  },
+  "10047": {
+    "name": "[Tracen Academy] Nice Nature",
+    "title": "[Tracen Academy]",
+    "chara": "Nice Nature"
+  },
+  "10048": {
+    "name": "[Tracen Academy] King Halo",
+    "title": "[Tracen Academy]",
+    "chara": "King Halo"
+  },
+  "10049": {
+    "name": "[Tracen Academy] Fuji Kiseki",
+    "title": "[Tracen Academy]",
+    "chara": "Fuji Kiseki"
+  },
+  "10050": {
+    "name": "[Tracen Academy] Sweep Tosho",
+    "title": "[Tracen Academy]",
+    "chara": "Sweep Tosho"
+  },
+  "10051": {
+    "name": "[Tracen Academy] Twin Turbo",
+    "title": "[Tracen Academy]",
+    "chara": "Twin Turbo"
+  },
+  "10052": {
+    "name": "[Tracen Academy] Daitaku Helios",
+    "title": "[Tracen Academy]",
+    "chara": "Daitaku Helios"
+  },
+  "10053": {
+    "name": "[Tracen Academy] Ikuno Dictus",
+    "title": "[Tracen Academy]",
+    "chara": "Ikuno Dictus"
+  },
+  "10054": {
+    "name": "[Tracen Academy] Mejiro Palmer",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Palmer"
+  },
+  "10055": {
+    "name": "[Tracen Academy] Kitasan Black",
+    "title": "[Tracen Academy]",
+    "chara": "Kitasan Black"
+  },
+  "10056": {
+    "name": "[Tracen Academy] Satono Diamond",
+    "title": "[Tracen Academy]",
+    "chara": "Satono Diamond"
+  },
+  "10057": {
+    "name": "[Tracen Academy] Matikanetannhauser",
+    "title": "[Tracen Academy]",
+    "chara": "Matikanetannhauser"
+  },
+  "10058": {
+    "name": "[Tracen Academy] Yaeno Muteki",
+    "title": "[Tracen Academy]",
+    "chara": "Yaeno Muteki"
+  },
+  "10059": {
+    "name": "[Tracen Academy] Zenno Rob Roy",
+    "title": "[Tracen Academy]",
+    "chara": "Zenno Rob Roy"
+  },
+  "10060": {
+    "name": "[Tracen Academy] Kashimoto Riko",
+    "title": "[Tracen Academy]",
+    "chara": "Kashimoto Riko"
+  },
+  "10061": {
+    "name": "[Tracen Academy] Seeking the Pearl",
+    "title": "[Tracen Academy]",
+    "chara": "Seeking the Pearl"
+  },
+  "10062": {
+    "name": "[Tracen Academy] Sakura Chiyono O",
+    "title": "[Tracen Academy]",
+    "chara": "Sakura Chiyono O"
+  },
+  "10063": {
+    "name": "[Tracen Academy] Kawakami Princess",
+    "title": "[Tracen Academy]",
+    "chara": "Kawakami Princess"
+  },
+  "10064": {
+    "name": "[Tracen Academy] Hishi Akebono",
+    "title": "[Tracen Academy]",
+    "chara": "Hishi Akebono"
+  },
+  "10065": {
+    "name": "[Tracen Academy] Bamboo Memory",
+    "title": "[Tracen Academy]",
+    "chara": "Bamboo Memory"
+  },
+  "10066": {
+    "name": "[Tracen Academy] Shinko Windy",
+    "title": "[Tracen Academy]",
+    "chara": "Shinko Windy"
+  },
+  "10067": {
+    "name": "[Tracen Academy] Nakayama Festa",
+    "title": "[Tracen Academy]",
+    "chara": "Nakayama Festa"
+  },
+  "10068": {
+    "name": "[Tracen Academy] Inari One",
+    "title": "[Tracen Academy]",
+    "chara": "Inari One"
+  },
+  "10069": {
+    "name": "[Tracen Academy] Mejiro Ardan",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Ardan"
+  },
+  "10070": {
+    "name": "[Tracen Academy] Tosen Jordan",
+    "title": "[Tracen Academy]",
+    "chara": "Tosen Jordan"
+  },
+  "10071": {
+    "name": "[Tracen Academy] Sirius Symboli",
+    "title": "[Tracen Academy]",
+    "chara": "Sirius Symboli"
+  },
+  "10072": {
+    "name": "[Tracen Academy] Narita Brian",
+    "title": "[Tracen Academy]",
+    "chara": "Narita Brian"
+  },
+  "10073": {
+    "name": "[Tracen Academy] Curren Chan",
+    "title": "[Tracen Academy]",
+    "chara": "Curren Chan"
+  },
+  "10074": {
+    "name": "[Acupuncturist] Anshinzawa Sasami",
+    "title": "[Acupuncturist]",
+    "chara": "Anshinzawa Sasami"
+  },
+  "10075": {
+    "name": "[Tracen Academy] Admire Vega",
+    "title": "[Tracen Academy]",
+    "chara": "Admire Vega"
+  },
+  "10076": {
+    "name": "[Tracen Academy] Mejiro Bright",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Bright"
+  },
+  "10077": {
+    "name": "[Tracen Academy] Narita Top Road",
+    "title": "[Tracen Academy]",
+    "chara": "Narita Top Road"
+  },
+  "10078": {
+    "name": "[Tracen Academy] Mr. C.B.",
+    "title": "[Tracen Academy]",
+    "chara": "Mr. C.B."
+  },
+  "10079": {
+    "name": "[Tracen Academy] Daiichi Ruby",
+    "title": "[Tracen Academy]",
+    "chara": "Daiichi Ruby"
+  },
+  "10080": {
+    "name": "[Tracen Academy] K.S.Miracle",
+    "title": "[Tracen Academy]",
+    "chara": "K.S.Miracle"
+  },
+  "10081": {
+    "name": "[Tracen Academy] Tsurumaru Tsuyoshi",
+    "title": "[Tracen Academy]",
+    "chara": "Tsurumaru Tsuyoshi"
+  },
+  "10082": {
+    "name": "[Tracen Academy] Symboli Kris S",
+    "title": "[Tracen Academy]",
+    "chara": "Symboli Kris S"
+  },
+  "10083": {
+    "name": "[Event Producer] Light Hello",
+    "title": "[Event Producer]",
+    "chara": "Light Hello"
+  },
+  "10084": {
+    "name": "[Tracen Academy] Tanino Gimlet",
+    "title": "[Tracen Academy]",
+    "chara": "Tanino Gimlet"
+  },
+  "10085": {
+    "name": "[Tracen Academy] Sakura Laurel",
+    "title": "[Tracen Academy]",
+    "chara": "Sakura Laurel"
+  },
+  "10086": {
+    "name": "[Tracen Academy] Yamanin Zephyr",
+    "title": "[Tracen Academy]",
+    "chara": "Yamanin Zephyr"
+  },
+  "10087": {
+    "name": "[Tracen Academy] Aston Machan",
+    "title": "[Tracen Academy]",
+    "chara": "Aston Machan"
+  },
+  "10088": {
+    "name": "[Tracen Academy] Mejiro Ramonu",
+    "title": "[Tracen Academy]",
+    "chara": "Mejiro Ramonu"
+  },
+  "10089": {
+    "name": "[Tracen Academy] Jungle Pocket",
+    "title": "[Tracen Academy]",
+    "chara": "Jungle Pocket"
+  },
+  "10090": {
+    "name": "[Tracen Academy] Hokko Tarumae",
+    "title": "[Tracen Academy]",
+    "chara": "Hokko Tarumae"
+  },
+  "10091": {
+    "name": "[Tracen Academy] Katsuragi Ace",
+    "title": "[Tracen Academy]",
+    "chara": "Katsuragi Ace"
+  },
+  "10092": {
+    "name": "[Tracen Academy] Copano Rickey",
+    "title": "[Tracen Academy]",
+    "chara": "Copano Rickey"
+  },
+  "10093": {
+    "name": "[Tracen Academy] Wonder Acute",
+    "title": "[Tracen Academy]",
+    "chara": "Wonder Acute"
+  },
+  "10094": {
+    "name": "[URA Staff] Satake Mei",
+    "title": "[URA Staff]",
+    "chara": "Satake Mei"
+  },
+  "10095": {
+    "name": "[Tracen Academy] Tap Dance City",
+    "title": "[Tracen Academy]",
+    "chara": "Tap Dance City"
+  },
+  "10096": {
+    "name": "[Tracen Academy] Still in Love",
+    "title": "[Tracen Academy]",
+    "chara": "Still in Love"
+  },
+  "10097": {
+    "name": "[Tracen Academy] Verxina",
+    "title": "[Tracen Academy]",
+    "chara": "Verxina"
+  },
+  "10098": {
+    "name": "[Tracen Academy] Sounds of Earth",
+    "title": "[Tracen Academy]",
+    "chara": "Sounds of Earth"
+  },
+  "10099": {
+    "name": "[Tracen Academy] Vivlos",
+    "title": "[Tracen Academy]",
+    "chara": "Vivlos"
+  },
+  "10100": {
+    "name": "[Tracen Academy] Royce and Royce",
+    "title": "[Tracen Academy]",
+    "chara": "Royce and Royce"
+  },
+  "10101": {
+    "name": "[Tracen Academy] Duramente",
+    "title": "[Tracen Academy]",
+    "chara": "Duramente"
+  },
+  "10102": {
+    "name": "[Tracen Academy] North Flight",
+    "title": "[Tracen Academy]",
+    "chara": "North Flight"
+  },
+  "10103": {
+    "name": "[Tracen Academy] Orfevre",
+    "title": "[Tracen Academy]",
+    "chara": "Orfevre"
+  },
+  "10104": {
+    "name": "[Producer] Tsurugi Ryoka",
+    "title": "[Producer]",
+    "chara": "Tsurugi Ryoka"
+  },
+  "10105": {
+    "name": "[Tracen Academy] Cheval Grand",
+    "title": "[Tracen Academy]",
+    "chara": "Cheval Grand"
+  },
+  "10106": {
+    "name": "[Tracen Academy] Neo Universe",
+    "title": "[Tracen Academy]",
+    "chara": "Neo Universe"
+  },
+  "10107": {
+    "name": "[Tracen Academy] Hishi Miracle",
+    "title": "[Tracen Academy]",
+    "chara": "Hishi Miracle"
+  },
+  "10108": {
+    "name": "[Tracen Academy] Dantsu Flame",
+    "title": "[Tracen Academy]",
+    "chara": "Dantsu Flame"
+  },
+  "10109": {
+    "name": "[Tracen Academy] Director Akikawa",
+    "title": "[Tracen Academy]",
+    "chara": "Director Akikawa"
+  },
+  "10110": {
+    "name": "[Tracen Academy] Espoir City",
+    "title": "[Tracen Academy]",
+    "chara": "Espoir City"
+  },
+  "10111": {
+    "name": "[Tracen Academy] Bubble Gum Fellow",
+    "title": "[Tracen Academy]",
+    "chara": "Bubble Gum Fellow"
+  },
+  "10113": {
+    "name": "[Tracen Academy] Gentildonna",
+    "title": "[Tracen Academy]",
+    "chara": "Gentildonna"
+  },
+  "10114": {
+    "name": "[Tracen Academy] Rhein Kraft",
+    "title": "[Tracen Academy]",
+    "chara": "Rhein Kraft"
+  },
+  "10115": {
+    "name": "[Tracen Academy] Cesario",
+    "title": "[Tracen Academy]",
+    "chara": "Cesario"
+  },
+  "10116": {
+    "name": "[Tracen Academy] Blast Onepiece",
+    "title": "[Tracen Academy]",
+    "chara": "Blast Onepiece"
+  },
+  "10117": {
+    "name": "[Tracen Academy] No Reason",
+    "title": "[Tracen Academy]",
+    "chara": "No Reason"
+  },
+  "10118": {
+    "name": "[Tracen Academy] Buena Vista",
+    "title": "[Tracen Academy]",
+    "chara": "Buena Vista"
+  },
+  "10119": {
+    "name": "[Tracen Academy] Dream Journey",
+    "title": "[Tracen Academy]",
+    "chara": "Dream Journey"
+  },
+  "10120": {
+    "name": "[Tracen Academy] Daring Tact",
+    "title": "[Tracen Academy]",
+    "chara": "Daring Tact"
+  },
+  "10121": {
+    "name": "[Tracen Academy] Daring Heart",
+    "title": "[Tracen Academy]",
+    "chara": "Daring Heart"
+  },
+  "10122": {
+    "name": "[Tracen Academy] Almond Eye",
+    "title": "[Tracen Academy]",
+    "chara": "Almond Eye"
+  },
+  "10123": {
+    "name": "[Tracen Academy] Lucky Lilac",
+    "title": "[Tracen Academy]",
+    "chara": "Lucky Lilac"
+  },
+  "10124": {
+    "name": "[Tracen Academy] Gran Alegria",
+    "title": "[Tracen Academy]",
+    "chara": "Gran Alegria"
+  },
+  "10125": {
+    "name": "[Tracen Academy] Transcend",
+    "title": "[Tracen Academy]",
+    "chara": "Transcend"
+  },
+  "10126": {
+    "name": "[Tracen Academy] Curren Bouquetd'or",
+    "title": "[Tracen Academy]",
+    "chara": "Curren Bouquetd'or"
+  },
+  "10127": {
+    "name": "[Tracen Academy] Air Messiah",
+    "title": "[Tracen Academy]",
+    "chara": "Air Messiah"
+  },
+  "10128": {
+    "name": "[Island Project Manager] Tucker Bryne",
+    "title": "[Island Project Manager]",
+    "chara": "Tucker Bryne"
+  },
+  "10129": {
+    "name": "[Tracen Academy] Fusaichi Pandora",
+    "title": "[Tracen Academy]",
+    "chara": "Fusaichi Pandora"
+  },
+  "10131": {
+    "name": "[Tracen Academy] Win Variation",
+    "title": "[Tracen Academy]",
+    "chara": "Win Variation"
+  },
+  "10132": {
+    "name": "[Tracen Academy] Stay Gold",
+    "title": "[Tracen Academy]",
+    "chara": "Stay Gold"
+  },
+  "10133": {
+    "name": "[Tracen Academy] Admire Groove",
+    "title": "[Tracen Academy]",
+    "chara": "Admire Groove"
+  },
+  "10134": {
+    "name": "[Tracen Academy] Chrono Genesis",
+    "title": "[Tracen Academy]",
+    "chara": "Chrono Genesis"
+  },
+  "10135": {
+    "name": "[Tracen Academy] Calstone Light O",
+    "title": "[Tracen Academy]",
+    "chara": "Calstone Light O"
+  },
+  "10136": {
+    "name": "[Tracen Academy] Durandal",
+    "title": "[Tracen Academy]",
+    "chara": "Durandal"
+  },
+  "10137": {
+    "name": "[Tracen Academy] Sakura Chitose O",
+    "title": "[Tracen Academy]",
+    "chara": "Sakura Chitose O"
+  },
+  "10138": {
+    "chara": "Hoshina Kiyoko"
+  },
+  "10139": {
+    "name": "[Tracen Academy] Fenomeno",
+    "title": "[Tracen Academy]",
+    "chara": "Fenomeno"
+  },
+  "20001": {
+    "name": "[Good Grief, Welcome Back] Fuji Kiseki",
+    "title": "[Good Grief, Welcome Back]",
+    "chara": "Fuji Kiseki"
+  },
+  "20002": {
+    "name": "[Effort Does Not Betray!] Daiwa Scarlet",
+    "title": "[Effort Does Not Betray!]",
+    "chara": "Daiwa Scarlet"
+  },
+  "20003": {
+    "name": "[Stand at the Top!] Hishi Amazon",
+    "title": "[Stand at the Top!]",
+    "chara": "Hishi Amazon"
+  },
+  "20004": {
+    "name": "[Vice President's Swift Justice] Air Groove",
+    "title": "[Vice President's Swift Justice]",
+    "chara": "Air Groove"
+  },
+  "20005": {
+    "name": "[Digital Charging in Progress+] Agnes Digital",
+    "title": "[Digital Charging in Progress+]",
+    "chara": "Agnes Digital"
+  },
+  "20006": {
+    "name": "[Verification, Start] Biwa Hayahide",
+    "title": "[Verification, Start]",
+    "chara": "Biwa Hayahide"
+  },
+  "20007": {
+    "name": "[Cute + Cute is～?] Mayano Top Gun",
+    "title": "[Cute + Cute is～?]",
+    "chara": "Mayano Top Gun"
+  },
+  "20008": {
+    "name": "[Rain's Recital, My Original] Manhattan Cafe",
+    "title": "[Rain's Recital, My Original]",
+    "chara": "Manhattan Cafe"
+  },
+  "20009": {
+    "name": "[Workout Companion] Mihono Bourbon",
+    "title": "[Workout Companion]",
+    "chara": "Mihono Bourbon"
+  },
+  "20010": {
+    "name": "[Exercise and Excel!] Mejiro Ryan",
+    "title": "[Exercise and Excel!]",
+    "chara": "Mejiro Ryan"
+  },
+  "20011": {
+    "name": "[City Girl Training, Begin♯] Yukino Bijin",
+    "title": "[City Girl Training, Begin♯]",
+    "chara": "Yukino Bijin"
+  },
+  "20012": {
+    "name": "[Experimental Study of Lifeform A] Agnes Tachyon",
+    "title": "[Experimental Study of Lifeform A]",
+    "chara": "Agnes Tachyon"
+  },
+  "20013": {
+    "name": "[0500・Just As Scheduled] Eishin Flash",
+    "title": "[0500・Just As Scheduled]",
+    "chara": "Eishin Flash"
+  },
+  "20014": {
+    "name": "[Rippling Feelings] Narita Taishin",
+    "title": "[Rippling Feelings]",
+    "chara": "Narita Taishin"
+  },
+  "20015": {
+    "name": "[Marvelous ☆ Masterplan] Marvelous Sunday",
+    "title": "[Marvelous ☆ Masterplan]",
+    "chara": "Marvelous Sunday"
+  },
+  "20016": {
+    "name": "[Whereabouts of Luck] Matikanefukukitaru",
+    "title": "[Whereabouts of Luck]",
+    "chara": "Matikanefukukitaru"
+  },
+  "20017": {
+    "name": "[Back-to-Back with Happiness] Meisho Doto",
+    "title": "[Back-to-Back with Happiness]",
+    "chara": "Meisho Doto"
+  },
+  "20018": {
+    "name": "[Don't Mind the Gazes] Mejiro Dober",
+    "title": "[Don't Mind the Gazes]",
+    "chara": "Mejiro Dober"
+  },
+  "20019": {
+    "name": "[…Just a Drop of Water] Nice Nature",
+    "title": "[…Just a Drop of Water]",
+    "chara": "Nice Nature"
+  },
+  "20020": {
+    "name": "[First-class Planning] King Halo",
+    "title": "[First-class Planning]",
+    "chara": "King Halo"
+  },
+  "20021": {
+    "name": "[Together on the Same Path!] Kiryūin Aoi",
+    "title": "[Together on the Same Path!]",
+    "chara": "Kiryūin Aoi"
+  },
+  "20022": {
+    "name": "[Taste my Ikayaki!] Tamamo Cross",
+    "title": "[Taste my Ikayaki!]",
+    "chara": "Tamamo Cross"
+  },
+  "20023": {
+    "name": "[The Apprentice Witch and the Long Night] Sweep Tosho",
+    "title": "[The Apprentice Witch and the Long Night]",
+    "chara": "Sweep Tosho"
+  },
+  "20024": {
+    "name": "[Party People・Party Night!] Daitaku Helios",
+    "title": "[Party People・Party Night!]",
+    "chara": "Daitaku Helios"
+  },
+  "20025": {
+    "name": "[Thou Shan't Neglect Warming Up] Ikuno Dictus",
+    "title": "[Thou Shan't Neglect Warming Up]",
+    "chara": "Ikuno Dictus"
+  },
+  "20026": {
+    "name": "[Disheveled Innocence] Nice Nature",
+    "title": "[Disheveled Innocence]",
+    "chara": "Nice Nature"
+  },
+  "20027": {
+    "name": "[Devoted to You] Nishino Flower",
+    "title": "[Devoted to You]",
+    "chara": "Nishino Flower"
+  },
+  "20028": {
+    "name": "[Book Recommendations Available!] Zenno Rob Roy",
+    "title": "[Book Recommendations Available!]",
+    "chara": "Zenno Rob Roy"
+  },
+  "20029": {
+    "name": "[Pearl of the World] Seeking the Pearl",
+    "title": "[Pearl of the World]",
+    "chara": "Seeking the Pearl"
+  },
+  "20030": {
+    "name": "[To Your Hard-working Self!] Ines Fujin",
+    "title": "[To Your Hard-working Self!]",
+    "chara": "Ines Fujin"
+  },
+  "20031": {
+    "name": "[///WARNING GATE///] Shinko Windy",
+    "title": "[///WARNING GATE///]",
+    "chara": "Shinko Windy"
+  },
+  "20032": {
+    "name": "[Smiling Through the Mud] Inari One",
+    "title": "[Smiling Through the Mud]",
+    "chara": "Inari One"
+  },
+  "20033": {
+    "name": "[Muddied Campanello] El Condor Pasa",
+    "title": "[Muddied Campanello]",
+    "chara": "El Condor Pasa"
+  },
+  "20034": {
+    "name": "[Blustering in That Heart] Mejiro Ardan",
+    "title": "[Blustering in That Heart]",
+    "chara": "Mejiro Ardan"
+  },
+  "20035": {
+    "name": "[nail on Turf] Tosen Jordan",
+    "title": "[nail on Turf]",
+    "chara": "Tosen Jordan"
+  },
+  "20036": {
+    "name": "[Here's your Salvation♪] Mejiro Palmer",
+    "title": "[Here's your Salvation♪]",
+    "chara": "Mejiro Palmer"
+  },
+  "20037": {
+    "name": "[GRMA Ramen♪] Fine Motion",
+    "title": "[GRMA Ramen♪]",
+    "chara": "Fine Motion"
+  },
+  "20038": {
+    "name": "[A First-magnitude Star Does Not Waver] Sirius Symboli",
+    "title": "[A First-magnitude Star Does Not Waver]",
+    "chara": "Sirius Symboli"
+  },
+  "20039": {
+    "name": "[Fussy Supervisor] Vodka",
+    "title": "[Fussy Supervisor]",
+    "chara": "Vodka"
+  },
+  "20040": {
+    "name": "[Pulse-Quickening Cooldown] Mejiro Ryan",
+    "title": "[Pulse-Quickening Cooldown]",
+    "chara": "Mejiro Ryan"
+  },
+  "20041": {
+    "name": "[First Magnitude Desire] Admire Vega",
+    "title": "[First Magnitude Desire]",
+    "chara": "Admire Vega"
+  },
+  "20042": {
+    "name": "[Hear! An Exemplary Greeting!] Sakura Bakushin O",
+    "title": "[Hear! An Exemplary Greeting!]",
+    "chara": "Sakura Bakushin O"
+  },
+  "20043": {
+    "name": "[At Day's End] Special Week",
+    "title": "[At Day's End]",
+    "chara": "Special Week"
+  },
+  "20044": {
+    "name": "[Hot ♪ Cute Memory] Curren Chan",
+    "title": "[Hot ♪ Cute Memory]",
+    "chara": "Curren Chan"
+  },
+  "20045": {
+    "name": "[On the Limit!? UMA♡DOL] Smart Falcon",
+    "title": "[On the Limit!? UMA♡DOL]",
+    "chara": "Smart Falcon"
+  },
+  "20046": {
+    "name": "[Tomboy Witch In Training] Sweep Tosho",
+    "title": "[Tomboy Witch In Training]",
+    "chara": "Sweep Tosho"
+  },
+  "20047": {
+    "name": "[Step! Smile! Wink!] Tokai Teio",
+    "title": "[Step! Smile! Wink!]",
+    "chara": "Tokai Teio"
+  },
+  "20048": {
+    "name": "[Rice, My Favourite] Oguri Cap",
+    "title": "[Rice, My Favourite]",
+    "chara": "Oguri Cap"
+  },
+  "20049": {
+    "name": "[Go For the Gold] Gold City",
+    "title": "[Go For the Gold]",
+    "chara": "Gold City"
+  },
+  "20050": {
+    "name": "[On The Slow Waves] Seiun Sky",
+    "title": "[On The Slow Waves]",
+    "chara": "Seiun Sky"
+  },
+  "20051": {
+    "name": "[The 3rd MIRACLE] K.S.Miracle",
+    "title": "[The 3rd MIRACLE]",
+    "chara": "K.S.Miracle"
+  },
+  "20052": {
+    "name": "[\"GO! GO! TSUYOSHI!\"] Tsurumaru Tsuyoshi",
+    "title": "[\"GO! GO! TSUYOSHI!\"]",
+    "chara": "Tsurumaru Tsuyoshi"
+  },
+  "20053": {
+    "name": "[Stop, Prez!] Narita Top Road",
+    "title": "[Stop, Prez!]",
+    "chara": "Narita Top Road"
+  },
+  "20054": {
+    "name": "[Grand Fotografia] T.M. Opera O",
+    "title": "[Grand Fotografia]",
+    "chara": "T.M. Opera O"
+  },
+  "20055": {
+    "name": "[Would you like your attachment heated?] Aston Machan",
+    "title": "[Would you like your attachment heated?]",
+    "chara": "Aston Machan"
+  },
+  "20056": {
+    "name": "[Dead End: Toosenbo] Jungle Pocket",
+    "title": "[Dead End: Toosenbo]",
+    "chara": "Jungle Pocket"
+  },
+  "20057": {
+    "name": "[Gentle & Sleek] Mejiro Dober",
+    "title": "[Gentle & Sleek]",
+    "chara": "Mejiro Dober"
+  },
+  "20058": {
+    "name": "[Your smile after school] Symboli Rudolf",
+    "title": "[Your smile after school]",
+    "chara": "Symboli Rudolf"
+  },
+  "20059": {
+    "name": "[Oh, wonderful sweetness] Agnes Tachyon",
+    "title": "[Oh, wonderful sweetness]",
+    "chara": "Agnes Tachyon"
+  },
+  "20060": {
+    "name": "[Have a Sweet Swim Ring] Hishi Akebono",
+    "title": "[Have a Sweet Swim Ring]",
+    "chara": "Hishi Akebono"
+  },
+  "20061": {
+    "name": "[Golshi Flippy Speciality] Gold Ship",
+    "title": "[Golshi Flippy Speciality]",
+    "chara": "Gold Ship"
+  },
+  "20062": {
+    "name": "[Radical Ride♪] Maruzensky",
+    "title": "[Radical Ride♪]",
+    "chara": "Maruzensky"
+  },
+  "20063": {
+    "name": "[Peering through an afternoon shower] Silence Suzuka",
+    "title": "[Peering through an afternoon shower]",
+    "chara": "Silence Suzuka"
+  },
+  "20064": {
+    "name": "[The goddess of luck rises early] Copano Rickey",
+    "title": "[The goddess of luck rises early]",
+    "chara": "Copano Rickey"
+  },
+  "20065": {
+    "name": "[The aftertaste of quality tea] Grass Wonder",
+    "title": "[The aftertaste of quality tea]",
+    "chara": "Grass Wonder"
+  },
+  "20066": {
+    "name": "[Great Helper and the Little Witch] Kitasan Black",
+    "title": "[Great Helper and the Little Witch]",
+    "chara": "Kitasan Black"
+  },
+  "20067": {
+    "name": "[Needy Night] Taiki Shuttle",
+    "title": "[Needy Night]",
+    "chara": "Taiki Shuttle"
+  },
+  "20068": {
+    "name": "[Extraordinary Gold Medal] Nice Nature",
+    "title": "[Extraordinary Gold Medal]",
+    "chara": "Nice Nature"
+  },
+  "20069": {
+    "name": "[Evil Spiders, Begone!?] Matikanetannhauser",
+    "title": "[Evil Spiders, Begone!?]",
+    "chara": "Matikanetannhauser"
+  },
+  "20070": {
+    "name": "[Eldest sister's trouble?] Verxina",
+    "title": "[Eldest sister's trouble?]",
+    "chara": "Verxina"
+  },
+  "20071": {
+    "name": "[Perfection is composable!] Royce and Royce",
+    "title": "[Perfection is composable!]",
+    "chara": "Royce and Royce"
+  },
+  "20072": {
+    "name": "[To Polish Gjallarhorn] Tanino Gimlet",
+    "title": "[To Polish Gjallarhorn]",
+    "chara": "Tanino Gimlet"
+  },
+  "20073": {
+    "name": "[Time flies] Tosen Jordan",
+    "title": "[Time flies]",
+    "chara": "Tosen Jordan"
+  },
+  "20074": {
+    "name": "[Preserving the wonder in her eyes] Yaeno Muteki",
+    "title": "[Preserving the wonder in her eyes]",
+    "chara": "Yaeno Muteki"
+  },
+  "20075": {
+    "name": "[Cheers!] Tap Dance City",
+    "title": "[Cheers!]",
+    "chara": "Tap Dance City"
+  },
+  "20076": {
+    "name": "[Roadside Feedback] Air Shakur",
+    "title": "[Roadside Feedback]",
+    "chara": "Air Shakur"
+  },
+  "20077": {
+    "name": "[Working In & Shaping Up!] Dantsu Flame",
+    "title": "[Working In & Shaping Up!]",
+    "chara": "Dantsu Flame"
+  },
+  "20078": {
+    "name": "[May this Charm bring Prosperity!] Matikanefukukitaru",
+    "title": "[May this Charm bring Prosperity!]",
+    "chara": "Matikanefukukitaru"
+  },
+  "20079": {
+    "name": "[Good Marvelous to Everyone☆] Marvelous Sunday",
+    "title": "[Good Marvelous to Everyone☆]",
+    "chara": "Marvelous Sunday"
+  },
+  "20080": {
+    "name": "[Hanagoromo for You] Sakura Laurel",
+    "title": "[Hanagoromo for You]",
+    "chara": "Sakura Laurel"
+  },
+  "20081": {
+    "name": "[Leave the Haute Couture to Me!] North Flight",
+    "title": "[Leave the Haute Couture to Me!]",
+    "chara": "North Flight"
+  },
+  "20082": {
+    "name": "[Vanguard Splash!] Bubble Gum Fellow",
+    "title": "[Vanguard Splash!]",
+    "chara": "Bubble Gum Fellow"
+  },
+  "20083": {
+    "name": "[Beauty and the Moon] Mejiro Ramonu",
+    "title": "[Beauty and the Moon]",
+    "chara": "Mejiro Ramonu"
+  },
+  "20084": {
+    "name": "[When Happiness Blooms] Lucky Lilac",
+    "title": "[When Happiness Blooms]",
+    "chara": "Lucky Lilac"
+  },
+  "20085": {
+    "name": "[Whispers of Melon] Mejiro McQueen",
+    "title": "[Whispers of Melon]",
+    "chara": "Mejiro McQueen"
+  },
+  "20086": {
+    "name": "[The Blue Rose of Happiness] Rice Shower",
+    "title": "[The Blue Rose of Happiness]",
+    "chara": "Rice Shower"
+  },
+  "20087": {
+    "name": "[Daring Music] Daring Heart",
+    "chara": "Daring Heart"
+  },
+  "20088": {
+    "name": "[Joy in Every Flower] Curren Bouquetd'or",
+    "title": "[Joy in Every Flower]",
+    "chara": "Curren Bouquetd'or"
+  },
+  "20089": {
+    "name": "[Our Princess Ways] Kawakami Princess",
+    "title": "[Our Princess Ways]",
+    "chara": "Kawakami Princess"
+  },
+  "20090": {
+    "name": "[Impawcable Hero] Biko Pegasus",
+    "title": "[Impawcable Hero]",
+    "chara": "Biko Pegasus"
+  },
+  "20091": {
+    "name": "[Brewing Silence] Sakura Chitose O",
+    "title": "[Brewing Silence]",
+    "chara": "Sakura Chitose O"
+  },
+  "20092": {
+    "chara": "Hokko Tarumae"
+  },
+  "20093": {
+    "chara": "Mejiro Dober"
+  },
+  "20094": {
+    "chara": "Satono Diamond"
+  },
+  "30001": {
+    "name": "[Japan's Number 1 Stage] Special Week",
+    "title": "[Japan's Number 1 Stage]",
+    "chara": "Special Week"
+  },
+  "30002": {
+    "name": "[Beyond the Brilliant Scenery] Silence Suzuka",
+    "title": "[Beyond the Brilliant Scenery]",
+    "chara": "Silence Suzuka"
+  },
+  "30003": {
+    "name": "[Let Your Dreams Be Known!] Tokai Teio",
+    "title": "[Let Your Dreams Be Known!]",
+    "chara": "Tokai Teio"
+  },
+  "30004": {
+    "name": "[Advance of the Unsinkable Battleship] Gold Ship",
+    "title": "[Advance of the Unsinkable Battleship]",
+    "chara": "Gold Ship"
+  },
+  "30005": {
+    "name": "[Road of Vodka] Vodka",
+    "title": "[Road of Vodka]",
+    "chara": "Vodka"
+  },
+  "30006": {
+    "name": "[A Myriad of Colors, a Noble Bloom] Grass Wonder",
+    "title": "[A Myriad of Colors, a Noble Bloom]",
+    "chara": "Grass Wonder"
+  },
+  "30007": {
+    "name": "[Passion Campeóna!] El Condor Pasa",
+    "title": "[Passion Campeóna!]",
+    "chara": "El Condor Pasa"
+  },
+  "30008": {
+    "name": "[Long-Awaited Masterplan] Seiun Sky",
+    "title": "[Long-Awaited Masterplan]",
+    "chara": "Seiun Sky"
+  },
+  "30009": {
+    "name": "[Heaven-Piercing Lightning Girl!] Tamamo Cross",
+    "title": "[Heaven-Piercing Lightning Girl!]",
+    "chara": "Tamamo Cross"
+  },
+  "30010": {
+    "name": "[Gratitude Up to One's Fingertips] Fine Motion",
+    "title": "[Gratitude Up to One's Fingertips]",
+    "chara": "Fine Motion"
+  },
+  "30011": {
+    "name": "[Jump Out and Shine] Ines Fujin",
+    "title": "[Jump Out and Shine]",
+    "chara": "Ines Fujin"
+  },
+  "30012": {
+    "name": "[B・N・Winner!!] Winning Ticket",
+    "title": "[B・N・Winner!!]",
+    "chara": "Winning Ticket"
+  },
+  "30013": {
+    "name": "[Beyond the 7 cm] Air Shakur",
+    "title": "[Beyond the 7 cm]",
+    "chara": "Air Shakur"
+  },
+  "30014": {
+    "name": "[Run(my)way] Gold City",
+    "title": "[Run(my)way]",
+    "chara": "Gold City"
+  },
+  "30015": {
+    "name": "[Fast! Delicious! Fast!] Sakura Bakushin O",
+    "title": "[Fast! Delicious! Fast!]",
+    "chara": "Sakura Bakushin O"
+  },
+  "30016": {
+    "name": "[A Grain of Peace] Super Creek",
+    "title": "[A Grain of Peace]",
+    "chara": "Super Creek"
+  },
+  "30017": {
+    "name": "[This Is My 'Umadol' Way ☆] Smart Falcon",
+    "title": "[This Is My 'Umadol' Way ☆]",
+    "chara": "Smart Falcon"
+  },
+  "30018": {
+    "name": "[Even as a Tiny Bud] Nishino Flower",
+    "title": "[Even as a Tiny Bud]",
+    "chara": "Nishino Flower"
+  },
+  "30019": {
+    "name": "[Urara～n Holiday] Haru Urara",
+    "title": "[Urara～n Holiday]",
+    "chara": "Haru Urara"
+  },
+  "30020": {
+    "name": "[Special Move! W Carrot Punch!] Biko Pegasus",
+    "title": "[Special Move! W Carrot Punch!]",
+    "chara": "Biko Pegasus"
+  },
+  "30021": {
+    "name": "[Welcome to Tracen Academy!] Hayakawa Tazuna",
+    "title": "[Welcome to Tracen Academy!]",
+    "chara": "Hayakawa Tazuna"
+  },
+  "30022": {
+    "name": "[As the Ace] Mejiro McQueen",
+    "title": "[As the Ace]",
+    "chara": "Mejiro McQueen"
+  },
+  "30023": {
+    "name": "[When Happiness Dances] Rice Shower",
+    "title": "[When Happiness Dances]",
+    "chara": "Rice Shower"
+  },
+  "30024": {
+    "name": "['You'll Be Dearly Beloved'] Oguri Cap",
+    "title": "['You'll Be Dearly Beloved']",
+    "chara": "Oguri Cap"
+  },
+  "30025": {
+    "name": "[Sunset-Colored Aspiration] Special Week",
+    "title": "[Sunset-Colored Aspiration]",
+    "chara": "Special Week"
+  },
+  "30026": {
+    "name": "[Turbo Engine, Full Power!] Twin Turbo",
+    "title": "[Turbo Engine, Full Power!]",
+    "chara": "Twin Turbo"
+  },
+  "30027": {
+    "name": "[Laugh All You Want] Mejiro Palmer",
+    "title": "[Laugh All You Want]",
+    "chara": "Mejiro Palmer"
+  },
+  "30028": {
+    "name": "[Pushed by the Approaching Passion] Kitasan Black",
+    "title": "[Pushed by the Approaching Passion]",
+    "chara": "Kitasan Black"
+  },
+  "30029": {
+    "name": "[Surpassing That Back] Satono Diamond",
+    "title": "[Surpassing That Back]",
+    "chara": "Satono Diamond"
+  },
+  "30030": {
+    "name": "[Just keep going.] Matikanetannhauser",
+    "title": "[Just keep going.]",
+    "chara": "Matikanetannhauser"
+  },
+  "30031": {
+    "name": "[Hometown Cheering Express!] Yukino Bijin",
+    "title": "[Hometown Cheering Express!]",
+    "chara": "Yukino Bijin"
+  },
+  "30032": {
+    "name": "[Unrestrainably Burning With Passion] Yaeno Muteki",
+    "title": "[Unrestrainably Burning With Passion]",
+    "chara": "Yaeno Muteki"
+  },
+  "30033": {
+    "name": "[Dreams Do Come True!] Winning Ticket",
+    "title": "[Dreams Do Come True!]",
+    "chara": "Winning Ticket"
+  },
+  "30034": {
+    "name": "[Happiness is Just Around the Corner] Rice Shower",
+    "title": "[Happiness is Just Around the Corner]",
+    "chara": "Rice Shower"
+  },
+  "30036": {
+    "name": "[Thorough Management] Kashimoto Riko",
+    "title": "[Thorough Management]",
+    "chara": "Kashimoto Riko"
+  },
+  "30037": {
+    "name": "[Unmistakable Emperor] Symboli Rudolf",
+    "title": "[Unmistakable Emperor]",
+    "chara": "Symboli Rudolf"
+  },
+  "30038": {
+    "name": "[Sakura in Full Bloom] Sakura Chiyono O",
+    "title": "[Sakura in Full Bloom]",
+    "chara": "Sakura Chiyono O"
+  },
+  "30039": {
+    "name": "[What Makes a Bride!!] Kawakami Princess",
+    "title": "[What Makes a Bride!!]",
+    "chara": "Kawakami Princess"
+  },
+  "30040": {
+    "name": "[Try First with Bite!] Hishi Akebono",
+    "title": "[Try First with Bite!]",
+    "chara": "Hishi Akebono"
+  },
+  "30041": {
+    "name": "[A Feeling, A Wish] Mejiro Dober",
+    "title": "[A Feeling, A Wish]",
+    "chara": "Mejiro Dober"
+  },
+  "30042": {
+    "name": "[Head-on fight!] Bamboo Memory",
+    "title": "[Head-on fight!]",
+    "chara": "Bamboo Memory"
+  },
+  "30043": {
+    "name": "[43, 8, 1] Nakayama Festa",
+    "title": "[43, 8, 1]",
+    "chara": "Nakayama Festa"
+  },
+  "30044": {
+    "name": "[Two Pieces] Narita Brian",
+    "title": "[Two Pieces]",
+    "chara": "Narita Brian"
+  },
+  "30045": {
+    "name": "[Chilly Hogging?] Sweep Tosho",
+    "title": "[Chilly Hogging?]",
+    "chara": "Sweep Tosho"
+  },
+  "30046": {
+    "name": "[Full Power! Tantrum!] Winning Ticket",
+    "title": "[Full Power! Tantrum!]",
+    "chara": "Winning Ticket"
+  },
+  "30047": {
+    "name": "[Trifle ☆ Vacation] Daiwa Scarlet",
+    "title": "[Trifle ☆ Vacation]",
+    "chara": "Daiwa Scarlet"
+  },
+  "30048": {
+    "name": "[Invigorating! Winning Shot!] Mejiro Ryan",
+    "title": "[Invigorating! Winning Shot!]",
+    "chara": "Mejiro Ryan"
+  },
+  "30052": {
+    "name": "[from the GROUND UP] Light Hello",
+    "title": "[from the GROUND UP]",
+    "chara": "Light Hello"
+  },
+  "30053": {
+    "name": "[Hands up, crook!] Taiki Shuttle",
+    "title": "[Hands up, crook!]",
+    "chara": "Taiki Shuttle"
+  },
+  "30054": {
+    "name": "[My Hope You Can't Erase] Nice Nature",
+    "title": "[My Hope You Can't Erase]",
+    "chara": "Nice Nature"
+  },
+  "30055": {
+    "name": "[Tomorrow the Entire Country Will Be Dyed Red♪] Seiun Sky",
+    "title": "[Tomorrow the Entire Country Will Be Dyed Red♪]",
+    "chara": "Seiun Sky"
+  },
+  "30056": {
+    "name": "[Tonight, Let's Dance to the Waltz] King Halo",
+    "title": "[Tonight, Let's Dance to the Waltz]",
+    "chara": "King Halo"
+  },
+  "30057": {
+    "name": "[Legend of the Strongest Uma King] Gold Ship",
+    "title": "[Legend of the Strongest Uma King]",
+    "chara": "Gold Ship"
+  },
+  "30058": {
+    "name": "[Two Noble Lights] Tokai Teio",
+    "title": "[Two Noble Lights]",
+    "chara": "Tokai Teio"
+  },
+  "30059": {
+    "name": "[Blessings are Fugues] Mihono Bourbon",
+    "title": "[Blessings are Fugues]",
+    "chara": "Mihono Bourbon"
+  },
+  "30060": {
+    "name": "[Gathering Constellations] Twin Turbo",
+    "title": "[Gathering Constellations]",
+    "chara": "Twin Turbo"
+  },
+  "30061": {
+    "name": "[Resonating Strain] Biwa Hayahide",
+    "title": "[Resonating Strain]",
+    "chara": "Biwa Hayahide"
+  },
+  "30062": {
+    "name": "[WINNING DREAM] Silence Suzuka",
+    "title": "[WINNING DREAM]",
+    "chara": "Silence Suzuka"
+  },
+  "30063": {
+    "name": "[Gentle Heart, Gentle Step] Ikuno Dictus",
+    "title": "[Gentle Heart, Gentle Step]",
+    "chara": "Ikuno Dictus"
+  },
+  "30064": {
+    "name": "[Let's go, Halloween Night!] Tamamo Cross",
+    "title": "[Let's go, Halloween Night!]",
+    "chara": "Tamamo Cross"
+  },
+  "30065": {
+    "name": "[Hero Blessed with Magic] Zenno Rob Roy",
+    "title": "[Hero Blessed with Magic]",
+    "chara": "Zenno Rob Roy"
+  },
+  "30066": {
+    "name": "[Ghosts and the Magic of Halloween] Mihono Bourbon",
+    "title": "[Ghosts and the Magic of Halloween]",
+    "chara": "Mihono Bourbon"
+  },
+  "30067": {
+    "name": "[Love Beyond Affection] The Throne's Assemblage",
+    "title": "[Love Beyond Affection]",
+    "chara": "The Throne's Assemblage"
+  },
+  "30068": {
+    "name": "[Your Sorrow, Your Beauty] Curren Chan",
+    "title": "[Your Sorrow, Your Beauty]",
+    "chara": "Curren Chan"
+  },
+  "30069": {
+    "name": "[Arrow Whistling Through the Skies] Narita Brian",
+    "title": "[Arrow Whistling Through the Skies]",
+    "chara": "Narita Brian"
+  },
+  "30070": {
+    "name": "[Ceremonial Dance Lighting Up the Night] Yukino Bijin",
+    "title": "[Ceremonial Dance Lighting Up the Night]",
+    "chara": "Yukino Bijin"
+  },
+  "30071": {
+    "name": "[Get Movin'! Live It Up! Party On!] Daitaku Helios",
+    "title": "[Get Movin'! Live It Up! Party On!]",
+    "chara": "Daitaku Helios"
+  },
+  "30072": {
+    "name": "[Formation: PARTY] Mayano Top Gun",
+    "title": "[Formation: PARTY]",
+    "chara": "Mayano Top Gun"
+  },
+  "30073": {
+    "name": "[Stubborn Malkuth] Narita Taishin",
+    "title": "[Stubborn Malkuth]",
+    "chara": "Narita Taishin"
+  },
+  "30074": {
+    "name": "[Snow-Crystal Day] Marvelous Sunday",
+    "title": "[Snow-Crystal Day]",
+    "chara": "Marvelous Sunday"
+  },
+  "30075": {
+    "name": "[Solo・Chase Helix] Manhattan Cafe",
+    "title": "[Solo・Chase Helix]",
+    "chara": "Manhattan Cafe"
+  },
+  "30076": {
+    "name": "[Seeking Sights Unseen] Silence Suzuka",
+    "title": "[Seeking Sights Unseen]",
+    "chara": "Silence Suzuka"
+  },
+  "30077": {
+    "name": "[Dawn to Night, Stars to Their Heavens] Admire Vega",
+    "title": "[Dawn to Night, Stars to Their Heavens]",
+    "chara": "Admire Vega"
+  },
+  "30078": {
+    "name": "[Touching Sleeves Bring Fortune♪] Matikanefukukitaru",
+    "title": "[Touching Sleeves Bring Fortune♪]",
+    "chara": "Matikanefukukitaru"
+  },
+  "30079": {
+    "name": "[Wishing to Leap Out] Meisho Doto",
+    "title": "[Wishing to Leap Out]",
+    "chara": "Meisho Doto"
+  },
+  "30080": {
+    "name": "[Want a Stab?] Anshinzawa Sasami",
+    "title": "[Want a Stab?]",
+    "chara": "Anshinzawa Sasami"
+  },
+  "30081": {
+    "name": "[Accumulating Feelings] Team Sirius",
+    "title": "[Accumulating Feelings]",
+    "chara": "Team Sirius"
+  },
+  "30082": {
+    "name": "[Affections in a Small Cup] Nishino Flower",
+    "title": "[Affections in a Small Cup]",
+    "chara": "Nishino Flower"
+  },
+  "30083": {
+    "name": "[Blustering! Breakneck! Flower Storm!] Sakura Bakushin O",
+    "title": "[Blustering! Breakneck! Flower Storm!]",
+    "chara": "Sakura Bakushin O"
+  },
+  "30084": {
+    "name": "[In my way] Tosen Jordan",
+    "title": "[In my way]",
+    "chara": "Tosen Jordan"
+  },
+  "30085": {
+    "name": "[The Joy \"There\"] Agnes Digital",
+    "title": "[The Joy \"There\"]",
+    "chara": "Agnes Digital"
+  },
+  "30086": {
+    "name": "[Peachy Baku-Shot!] Narita Top Road",
+    "title": "[Peachy Baku-Shot!]",
+    "chara": "Narita Top Road"
+  },
+  "30087": {
+    "name": "[Little By Little] Mejiro Bright",
+    "title": "[Little By Little]",
+    "chara": "Mejiro Bright"
+  },
+  "30088": {
+    "name": "[SPECIAL DREAMERS!!] Satono Diamond",
+    "title": "[SPECIAL DREAMERS!!]",
+    "chara": "Satono Diamond"
+  },
+  "30089": {
+    "name": "[A More Marvelous ☆ World] Marvelous Sunday",
+    "title": "[A More Marvelous ☆ World]",
+    "chara": "Marvelous Sunday"
+  },
+  "30090": {
+    "name": "[Enchaînement] Symboli Rudolf",
+    "title": "[Enchaînement]",
+    "chara": "Symboli Rudolf"
+  },
+  "30091": {
+    "name": "[Escorte étoile] Sirius Symboli",
+    "title": "[Escorte étoile]",
+    "chara": "Sirius Symboli"
+  },
+  "30092": {
+    "name": "[mag!c number] Air Shakur",
+    "title": "[mag!c number]",
+    "chara": "Air Shakur"
+  },
+  "30093": {
+    "name": "[Outfit as No.1] Daiwa Scarlet",
+    "title": "[Outfit as No.1]",
+    "chara": "Daiwa Scarlet"
+  },
+  "30094": {
+    "name": "[Spread My Feelings!] Bamboo Memory",
+    "title": "[Spread My Feelings!]",
+    "chara": "Bamboo Memory"
+  },
+  "30095": {
+    "name": "[The Cheer That Changed The World] Seeking the Pearl",
+    "title": "[The Cheer That Changed The World]",
+    "chara": "Seeking the Pearl"
+  },
+  "30096": {
+    "name": "[Go! Go!☆Princess!] Kawakami Princess",
+    "title": "[Go! Go!☆Princess!]",
+    "chara": "Kawakami Princess"
+  },
+  "30097": {
+    "name": "[Dear Mr. C.B.] Mr. C.B.",
+    "title": "[Dear Mr. C.B.]",
+    "chara": "Mr. C.B."
+  },
+  "30098": {
+    "name": "[Bruraright Passion♪] Haru Urara",
+    "title": "[Bruraright Passion♪]",
+    "chara": "Haru Urara"
+  },
+  "30099": {
+    "name": "[Bonds Like a Golden Orchid Bouquet] Ikuno Dictus",
+    "title": "[Bonds Like a Golden Orchid Bouquet]",
+    "chara": "Ikuno Dictus"
+  },
+  "30100": {
+    "name": "[A Scene From Dreams] Rice Shower",
+    "title": "[A Scene From Dreams]",
+    "chara": "Rice Shower"
+  },
+  "30101": {
+    "name": "[Q≠0] Agnes Tachyon",
+    "title": "[Q≠0]",
+    "chara": "Agnes Tachyon"
+  },
+  "30102": {
+    "name": "[Glittering Gallop∞] El Condor Pasa",
+    "title": "[Glittering Gallop∞]",
+    "chara": "El Condor Pasa"
+  },
+  "30103": {
+    "name": "[Matikane ☆ Adventure] Matikanetannhauser",
+    "title": "[Matikane ☆ Adventure]",
+    "chara": "Matikanetannhauser"
+  },
+  "30104": {
+    "name": "[\"Rhodonite and the Dreamstone\"] Zenno Rob Roy",
+    "title": "[\"Rhodonite and the Dreamstone\"]",
+    "chara": "Zenno Rob Roy"
+  },
+  "30105": {
+    "name": "[Let's Seize Our Dreams!] Special Week",
+    "title": "[Let's Seize Our Dreams!]",
+    "chara": "Special Week"
+  },
+  "30106": {
+    "name": "[A Summer Gale Towards Ideals] Air Groove",
+    "title": "[A Summer Gale Towards Ideals]",
+    "chara": "Air Groove"
+  },
+  "30107": {
+    "name": "[Sentimentality Advisory♪] Maruzensky",
+    "title": "[Sentimentality Advisory♪]",
+    "chara": "Maruzensky"
+  },
+  "30108": {
+    "name": "[Surrender to the Dice] Nakayama Festa",
+    "title": "[Surrender to the Dice]",
+    "chara": "Nakayama Festa"
+  },
+  "30109": {
+    "name": "[A Fab Heart is a Blooming Heart] Sakura Chiyono O",
+    "title": "[A Fab Heart is a Blooming Heart]",
+    "chara": "Sakura Chiyono O"
+  },
+  "30110": {
+    "name": "[It's on the house.] Manhattan Cafe",
+    "title": "[It's on the house.]",
+    "chara": "Manhattan Cafe"
+  },
+  "30111": {
+    "name": "[Teioo-oo-ooo!!!] Tokai Teio",
+    "title": "[Teioo-oo-ooo!!!]",
+    "chara": "Tokai Teio"
+  },
+  "30112": {
+    "name": "[TT Ignition!] Twin Turbo",
+    "title": "[TT Ignition!]",
+    "chara": "Twin Turbo"
+  },
+  "30113": {
+    "name": "[Uchronia Architect] Biwa Hayahide",
+    "title": "[Uchronia Architect]",
+    "chara": "Biwa Hayahide"
+  },
+  "30114": {
+    "name": "[Behold the Majestic Bloodline] Daiichi Ruby",
+    "title": "[Behold the Majestic Bloodline]",
+    "chara": "Daiichi Ruby"
+  },
+  "30115": {
+    "name": "[Devils In the Moonlight♪] Mejiro Palmer",
+    "title": "[Devils In the Moonlight♪]",
+    "chara": "Mejiro Palmer"
+  },
+  "30116": {
+    "name": "[Angels In the Sunlight♪] Daitaku Helios",
+    "title": "[Angels In the Sunlight♪]",
+    "chara": "Daitaku Helios"
+  },
+  "30117": {
+    "name": "[Onwards! The Fearsome Demon Queen Forces] Shinko Windy",
+    "title": "[Onwards! The Fearsome Demon Queen Forces]",
+    "chara": "Shinko Windy"
+  },
+  "30118": {
+    "name": "[A Win Foreshadowed] Symboli Kris S",
+    "title": "[A Win Foreshadowed]",
+    "chara": "Symboli Kris S"
+  },
+  "30119": {
+    "name": "[Ride the Night Winds, Flowers of Prayer] Mejiro Ardan",
+    "title": "[Ride the Night Winds, Flowers of Prayer]",
+    "chara": "Mejiro Ardan"
+  },
+  "30120": {
+    "name": "[Scorch Even the Heavens, Flame of Devotion] Yaeno Muteki",
+    "title": "[Scorch Even the Heavens, Flame of Devotion]",
+    "chara": "Yaeno Muteki"
+  },
+  "30121": {
+    "name": "[U & Me] Mihono Bourbon",
+    "title": "[U & Me]",
+    "chara": "Mihono Bourbon"
+  },
+  "30122": {
+    "name": "[Danke schön] Eishin Flash",
+    "title": "[Danke schön]",
+    "chara": "Eishin Flash"
+  },
+  "30123": {
+    "name": "[GLAD TIDINGS] Narita Brian",
+    "title": "[GLAD TIDINGS]",
+    "chara": "Narita Brian"
+  },
+  "30124": {
+    "name": "[Are you merry?] Air Groove",
+    "title": "[Are you merry?]",
+    "chara": "Air Groove"
+  },
+  "30125": {
+    "name": "[Don't stop anymore!] Sakura Laurel",
+    "title": "[Don't stop anymore!]",
+    "chara": "Sakura Laurel"
+  },
+  "30126": {
+    "name": "[To Uncharted Winds] Yamanin Zephyr",
+    "title": "[To Uncharted Winds]",
+    "chara": "Yamanin Zephyr"
+  },
+  "30127": {
+    "name": "[Pray To Ward Off Evil Spirits] Special Week",
+    "title": "[Pray To Ward Off Evil Spirits]",
+    "chara": "Special Week"
+  },
+  "30128": {
+    "name": "[Capricious Whimsy] Sweep Tosho",
+    "title": "[Capricious Whimsy]",
+    "chara": "Sweep Tosho"
+  },
+  "30129": {
+    "name": "[Winter Gives Way to Summer's Verdancy] Grass Wonder",
+    "title": "[Winter Gives Way to Summer's Verdancy]",
+    "chara": "Grass Wonder"
+  },
+  "30130": {
+    "name": "[To you] K.S.Miracle",
+    "title": "[To you]",
+    "chara": "K.S.Miracle"
+  },
+  "30131": {
+    "name": "[MARVELOUS ☆ CHOCOLATE SHOW] Marvelous Sunday",
+    "title": "[MARVELOUS ☆ CHOCOLATE SHOW]",
+    "chara": "Marvelous Sunday"
+  },
+  "30132": {
+    "name": "[Transform! Garçon Form!] Biko Pegasus",
+    "title": "[Transform! Garçon Form!]",
+    "chara": "Biko Pegasus"
+  },
+  "30133": {
+    "name": "[Smile In Fondente] Hishi Akebono",
+    "title": "[Smile In Fondente]",
+    "chara": "Hishi Akebono"
+  },
+  "30134": {
+    "name": "[Radiant] Mejiro Ramonu",
+    "title": "[Radiant]",
+    "chara": "Mejiro Ramonu"
+  },
+  "30135": {
+    "name": "[Raise up your raging torch] Katsuragi Ace",
+    "title": "[Raise up your raging torch]",
+    "chara": "Katsuragi Ace"
+  },
+  "30136": {
+    "name": "[Unyielding resolve] Symboli Kris S",
+    "title": "[Unyielding resolve]",
+    "chara": "Symboli Kris S"
+  },
+  "30137": {
+    "name": "[In Pursuit of Eternal Glory] Progenitors & Guides",
+    "title": "[In Pursuit of Eternal Glory]",
+    "chara": "Progenitors & Guides"
+  },
+  "30138": {
+    "name": "[Don't close your eyes now] Nice Nature",
+    "title": "[Don't close your eyes now]",
+    "chara": "Nice Nature"
+  },
+  "30139": {
+    "name": "[My heart on a night breeze] Mejiro McQueen",
+    "title": "[My heart on a night breeze]",
+    "chara": "Mejiro McQueen"
+  },
+  "30140": {
+    "name": "[A waltz with you] Tokai Teio",
+    "title": "[A waltz with you]",
+    "chara": "Tokai Teio"
+  },
+  "30141": {
+    "name": "[Mission: Feeding the heart] Mihono Bourbon",
+    "title": "[Mission: Feeding the heart]",
+    "chara": "Mihono Bourbon"
+  },
+  "30142": {
+    "name": "[Cherry Blossoms Abloom] Sakura Laurel",
+    "title": "[Cherry Blossoms Abloom]",
+    "chara": "Sakura Laurel"
+  },
+  "30143": {
+    "name": "[Scenes We Reached] Ikuno Dictus",
+    "title": "[Scenes We Reached]",
+    "chara": "Ikuno Dictus"
+  },
+  "30145": {
+    "name": "[Welcome to Umayuru] Tanino Gimlet",
+    "title": "[Welcome to Umayuru]",
+    "chara": "Tanino Gimlet"
+  },
+  "30146": {
+    "name": "[Run, Dash, Sprint!!] Oguri Cap",
+    "title": "[Run, Dash, Sprint!!]",
+    "chara": "Oguri Cap"
+  },
+  "30147": {
+    "name": "[The frontier] Jungle Pocket",
+    "title": "[The frontier]",
+    "chara": "Jungle Pocket"
+  },
+  "30148": {
+    "name": "[Something Blue] Daiwa Scarlet",
+    "title": "[Something Blue]",
+    "chara": "Daiwa Scarlet"
+  },
+  "30149": {
+    "name": "[Haute Couture Memory] Aston Machan",
+    "title": "[Haute Couture Memory]",
+    "chara": "Aston Machan"
+  },
+  "30150": {
+    "name": "[Heart Ignition!!] Vodka",
+    "title": "[Heart Ignition!!]",
+    "chara": "Vodka"
+  },
+  "30151": {
+    "name": "[Chill chill night*] Mayano Top Gun",
+    "title": "[Chill chill night*]",
+    "chara": "Mayano Top Gun"
+  },
+  "30152": {
+    "name": "[All'alba vincerò!] T.M. Opera O",
+    "title": "[All'alba vincerò!]",
+    "chara": "T.M. Opera O"
+  },
+  "30153": {
+    "name": "[Gentle Moon] Gold City",
+    "title": "[Gentle Moon]",
+    "chara": "Gold City"
+  },
+  "30154": {
+    "name": "[Like a Seagull] Mejiro Palmer",
+    "title": "[Like a Seagull]",
+    "chara": "Mejiro Palmer"
+  },
+  "30155": {
+    "name": "[#summer #newself] Daitaku Helios",
+    "title": "[#summer #newself]",
+    "chara": "Daitaku Helios"
+  },
+  "30156": {
+    "name": "[Lifelong Wonder] Wonder Acute",
+    "title": "[Lifelong Wonder]",
+    "chara": "Wonder Acute"
+  },
+  "30157": {
+    "name": "[Transient Moments With You] Manhattan Cafe",
+    "title": "[Transient Moments With You]",
+    "chara": "Manhattan Cafe"
+  },
+  "30158": {
+    "name": "[Blast Off! Hot Summer!] Jungle Pocket",
+    "title": "[Blast Off! Hot Summer!]",
+    "chara": "Jungle Pocket"
+  },
+  "30159": {
+    "name": "[Seaside Bloom] Air Groove",
+    "title": "[Seaside Bloom]",
+    "chara": "Air Groove"
+  },
+  "30160": {
+    "name": "[L'aube approaches] Satake Mei",
+    "title": "[L'aube approaches]",
+    "chara": "Satake Mei"
+  },
+  "30161": {
+    "name": "[Soaring Ambition] El Condor Pasa",
+    "title": "[Soaring Ambition]",
+    "chara": "El Condor Pasa"
+  },
+  "30162": {
+    "name": "[Precious☆Moments] Admire Vega",
+    "title": "[Precious☆Moments]",
+    "chara": "Admire Vega"
+  },
+  "30163": {
+    "name": "[Gambling Den Violet] Nakayama Festa",
+    "title": "[Gambling Den Violet]",
+    "chara": "Nakayama Festa"
+  },
+  "30164": {
+    "name": "[Embracing a Fiery Fighting Spirit] Hishi Amazon",
+    "title": "[Embracing a Fiery Fighting Spirit]",
+    "chara": "Hishi Amazon"
+  },
+  "30165": {
+    "name": "[Fortuna's Ovation] Tanino Gimlet",
+    "title": "[Fortuna's Ovation]",
+    "chara": "Tanino Gimlet"
+  },
+  "30166": {
+    "name": "[Sonorous YO-HO!] Tap Dance City",
+    "title": "[Sonorous YO-HO!]",
+    "chara": "Tap Dance City"
+  },
+  "30167": {
+    "name": "[Hello my clover] Fine Motion",
+    "title": "[Hello my clover]",
+    "chara": "Fine Motion"
+  },
+  "30168": {
+    "name": "[Wade the waves to a dream] Gold Ship",
+    "title": "[Wade the waves to a dream]",
+    "chara": "Gold Ship"
+  },
+  "30169": {
+    "name": "[A smile from the heavens] Tsurumaru Tsuyoshi",
+    "title": "[A smile from the heavens]",
+    "chara": "Tsurumaru Tsuyoshi"
+  },
+  "30170": {
+    "name": "[My dance whirls forth] King Halo",
+    "title": "[My dance whirls forth]",
+    "chara": "King Halo"
+  },
+  "30171": {
+    "name": "[Oh, such joy, such delight!] Haru Urara",
+    "title": "[Oh, such joy, such delight!]",
+    "chara": "Haru Urara"
+  },
+  "30172": {
+    "name": "[Give it a wallop, I do say!?] Mejiro McQueen",
+    "title": "[Give it a wallop, I do say!?]",
+    "chara": "Mejiro McQueen"
+  },
+  "30173": {
+    "name": "[Ensemble of Earth and Us] Sounds of Earth",
+    "title": "[Ensemble of Earth and Us]",
+    "chara": "Sounds of Earth"
+  },
+  "30174": {
+    "name": "[A holy night for change] Mejiro Dober",
+    "title": "[A holy night for change]",
+    "chara": "Mejiro Dober"
+  },
+  "30175": {
+    "name": "[Embers which dissolve winter] Mejiro Ramonu",
+    "title": "[Embers which dissolve winter]",
+    "chara": "Mejiro Ramonu"
+  },
+  "30176": {
+    "name": "[Choose, choose with all your heart] Mejiro Ryan",
+    "title": "[Choose, choose with all your heart]",
+    "chara": "Mejiro Ryan"
+  },
+  "30177": {
+    "name": "[Satisfied Winning Smile] Vivlos",
+    "title": "[Satisfied Winning Smile]",
+    "chara": "Vivlos"
+  },
+  "30178": {
+    "name": "[Stirring Blood] Duramente",
+    "title": "[Stirring Blood]",
+    "chara": "Duramente"
+  },
+  "30179": {
+    "name": "[Wishes diverse as flowers held within] Satono Diamond",
+    "title": "[Wishes diverse as flowers held within]",
+    "chara": "Satono Diamond"
+  },
+  "30180": {
+    "name": "[Into the future!] Timeless Icons",
+    "title": "[Into the future!]",
+    "chara": "Timeless Icons"
+  },
+  "30181": {
+    "name": "[Sing! Minna no!] Twin Turbo",
+    "title": "[Sing! Minna no!]",
+    "chara": "Twin Turbo"
+  },
+  "30182": {
+    "name": "[Our angel's homecoming] Hokko Tarumae",
+    "title": "[Our angel's homecoming]",
+    "chara": "Hokko Tarumae"
+  },
+  "30183": {
+    "name": "[Two Little Smiles] Winning Ticket",
+    "title": "[Two Little Smiles]",
+    "chara": "Winning Ticket"
+  },
+  "30184": {
+    "name": "[Grateful Gratitude! Cherry Blossom Flurry!!] Sakura Bakushin O",
+    "title": "[Grateful Gratitude! Cherry Blossom Flurry!!]",
+    "chara": "Sakura Bakushin O"
+  },
+  "30185": {
+    "name": "[Go! Fashionista!] North Flight",
+    "title": "[Go! Fashionista!]",
+    "chara": "North Flight"
+  },
+  "30186": {
+    "name": "[Balliamo?] Gentildonna",
+    "title": "[Balliamo?]",
+    "chara": "Gentildonna"
+  },
+  "30187": {
+    "name": "[Unconditional Subjugation] Orfevre",
+    "title": "[Unconditional Subjugation]",
+    "chara": "Orfevre"
+  },
+  "30188": {
+    "name": "[The Sparkles We Create] Tsurugi Ryoka",
+    "title": "[The Sparkles We Create]",
+    "chara": "Tsurugi Ryoka"
+  },
+  "30189": {
+    "name": "[Bounce chassé together] Kitasan Black",
+    "title": "[Bounce chassé together]",
+    "chara": "Kitasan Black"
+  },
+  "30190": {
+    "name": "[A Pizzica of Intense Emotion] Duramente",
+    "title": "[A Pizzica of Intense Emotion]",
+    "chara": "Duramente"
+  },
+  "30191": {
+    "name": "[A melody in brillante with you] Sounds of Earth",
+    "title": "[A melody in brillante with you]",
+    "chara": "Sounds of Earth"
+  },
+  "30192": {
+    "name": "[Special Reverance] Vivlos",
+    "title": "[Special Reverance]",
+    "chara": "Vivlos"
+  },
+  "30193": {
+    "name": "[Over the Ocean] Cheval Grand",
+    "title": "[Over the Ocean]",
+    "chara": "Cheval Grand"
+  },
+  "30194": {
+    "name": "[A Tiara-shaped Ley Line] Rhein Kraft",
+    "title": "[A Tiara-shaped Ley Line]",
+    "chara": "Rhein Kraft"
+  },
+  "30195": {
+    "name": "[The White Bird's Arabesque] K.S.Miracle",
+    "title": "[The White Bird's Arabesque]",
+    "chara": "K.S.Miracle"
+  },
+  "30196": {
+    "name": "[On the Winds] Yamanin Zephyr",
+    "title": "[On the Winds]",
+    "chara": "Yamanin Zephyr"
+  },
+  "30197": {
+    "name": "[Burning!!] Bamboo Memory",
+    "title": "[Burning!!]",
+    "chara": "Bamboo Memory"
+  },
+  "30198": {
+    "name": "[My dear V.E.R.2285] Neo Universe",
+    "title": "[My dear V.E.R.2285]",
+    "chara": "Neo Universe"
+  },
+  "30199": {
+    "name": "[Work a Miracle!] Hishi Miracle",
+    "title": "[Work a Miracle!]",
+    "chara": "Hishi Miracle"
+  },
+  "30200": {
+    "name": "[Brave Soldiers] No Reason",
+    "title": "[Brave Soldiers]",
+    "chara": "No Reason"
+  },
+  "30201": {
+    "name": "[Take Them Down!] Narita Taishin",
+    "title": "[Take Them Down!]",
+    "chara": "Narita Taishin"
+  },
+  "30202": {
+    "name": "[Ride Into Tomorrow] Vodka",
+    "title": "[Ride Into Tomorrow]",
+    "chara": "Vodka"
+  },
+  "30203": {
+    "name": "[Founders of a New Era] Jungle Pocket",
+    "title": "[Founders of a New Era]",
+    "chara": "Jungle Pocket"
+  },
+  "30204": {
+    "name": "[Drifting to Blissful Sleep] Seiun Sky",
+    "title": "[Drifting to Blissful Sleep]",
+    "chara": "Seiun Sky"
+  },
+  "30205": {
+    "name": "[Azure Coronation Ceremony] Verxina",
+    "title": "[Azure Coronation Ceremony]",
+    "chara": "Verxina"
+  },
+  "30206": {
+    "name": "[Dreams of Alstroemeria] Vivlos",
+    "title": "[Dreams of Alstroemeria]",
+    "chara": "Vivlos"
+  },
+  "30207": {
+    "name": "[Real Quality! Fantastical Extra Large Carrot!] Director Akikawa",
+    "title": "[Real Quality! Fantastical Extra Large Carrot!]",
+    "chara": "Director Akikawa"
+  },
+  "30208": {
+    "name": "[Strawberry Field at Sunrise] Nishino Flower",
+    "title": "[Strawberry Field at Sunrise]",
+    "chara": "Nishino Flower"
+  },
+  "30209": {
+    "name": "[And the Curtains Rise] Dantsu Flame",
+    "title": "[And the Curtains Rise]",
+    "chara": "Dantsu Flame"
+  },
+  "30210": {
+    "name": "[Candid Shot Between The Waves] Smart Falcon",
+    "title": "[Candid Shot Between The Waves]",
+    "chara": "Smart Falcon"
+  },
+  "30211": {
+    "name": "[Lucky☆Summertime] Copano Rickey",
+    "title": "[Lucky☆Summertime]",
+    "chara": "Copano Rickey"
+  },
+  "30212": {
+    "name": "[That Summer's Cut-off Line] Wonder Acute",
+    "title": "[That Summer's Cut-off Line]",
+    "chara": "Wonder Acute"
+  },
+  "30213": {
+    "name": "[The Slapdash Grand Prix has Begun] Tokai Teio",
+    "title": "[The Slapdash Grand Prix has Begun]",
+    "chara": "Tokai Teio"
+  },
+  "30214": {
+    "name": "[Full of History and Good Food] Fine Motion",
+    "title": "[Full of History and Good Food]",
+    "chara": "Fine Motion"
+  },
+  "30215": {
+    "name": "[Devilish Whispers] Still in Love",
+    "title": "[Devilish Whispers]",
+    "chara": "Still in Love"
+  },
+  "30216": {
+    "name": "[With Love to Our School] Buena Vista",
+    "title": "[With Love to Our School]",
+    "chara": "Buena Vista"
+  },
+  "30217": {
+    "name": "[Mother Sea of Love] Cesario",
+    "title": "[Mother Sea of Love]",
+    "chara": "Cesario"
+  },
+  "30218": {
+    "name": "[Sunshine Under the Moon] Taiki Shuttle",
+    "title": "[Sunshine Under the Moon]",
+    "chara": "Taiki Shuttle"
+  },
+  "30219": {
+    "name": "[Something troubling you, Pony-chan?] Fuji Kiseki",
+    "title": "[Something troubling you, Pony-chan?]",
+    "chara": "Fuji Kiseki"
+  },
+  "30220": {
+    "name": "[Rewarding Job] Symboli Kris S",
+    "title": "[Rewarding Job]",
+    "chara": "Symboli Kris S"
+  },
+  "30221": {
+    "name": "[Fun and Food Every Day] Satono Diamond",
+    "title": "[Fun and Food Every Day]",
+    "chara": "Satono Diamond"
+  },
+  "30222": {
+    "name": "[KNOCK 'EM DOWN!] Espoir City",
+    "title": "[KNOCK 'EM DOWN!]",
+    "chara": "Espoir City"
+  },
+  "30223": {
+    "name": "[Chewing up the Refrain] Hishi Amazon",
+    "title": "[Chewing up the Refrain]",
+    "chara": "Hishi Amazon"
+  },
+  "30224": {
+    "name": "[Roar of Apoyando] Narita Brian",
+    "title": "[Roar of Apoyando]",
+    "chara": "Narita Brian"
+  },
+  "30225": {
+    "name": "[Making a Power Trio] Matikanefukukitaru",
+    "title": "[Making a Power Trio]",
+    "chara": "Matikanefukukitaru"
+  },
+  "30226": {
+    "name": "[Cocoon] Air Shakur",
+    "title": "[Cocoon]",
+    "chara": "Air Shakur"
+  },
+  "30227": {
+    "name": "[The Wind Blows For You, Scarlet] Daiwa Scarlet",
+    "title": "[The Wind Blows For You, Scarlet]",
+    "chara": "Daiwa Scarlet"
+  },
+  "30228": {
+    "name": "[COOL⇔CRAZY/Buddy] Symboli Kris S",
+    "title": "[COOL⇔CRAZY/Buddy]",
+    "chara": "Symboli Kris S"
+  },
+  "30229": {
+    "name": "[Alert! New Work Available!] Agnes Digital",
+    "title": "[Alert! New Work Available!]",
+    "chara": "Agnes Digital"
+  },
+  "30230": {
+    "name": "[Howling Fortitude] Meisho Doto",
+    "title": "[Howling Fortitude]",
+    "chara": "Meisho Doto"
+  },
+  "30231": {
+    "name": "[The Ruling Royalty] T.M. Opera O",
+    "title": "[The Ruling Royalty]",
+    "chara": "T.M. Opera O"
+  },
+  "30232": {
+    "name": "[Blast Off!] Blast Onepiece",
+    "title": "[Blast Off!]",
+    "chara": "Blast Onepiece"
+  },
+  "30233": {
+    "name": "[Calligraphy Expert] Symboli Rudolf",
+    "title": "[Calligraphy Expert]",
+    "chara": "Symboli Rudolf"
+  },
+  "30234": {
+    "name": "[Dear Secluded Me…] Mejiro Ardan",
+    "title": "[Dear Secluded Me…]",
+    "chara": "Mejiro Ardan"
+  },
+  "30235": {
+    "name": "[Blooming Flowers Smile in the Heavens] Maruzensky",
+    "title": "[Blooming Flowers Smile in the Heavens]",
+    "chara": "Maruzensky"
+  },
+  "30236": {
+    "name": "[Venus Takeoff] Seeking the Pearl",
+    "title": "[Venus Takeoff]",
+    "chara": "Seeking the Pearl"
+  },
+  "30237": {
+    "name": "[Cutest in Ur ♡] Curren Chan",
+    "title": "[Cutest in Ur ♡]",
+    "chara": "Curren Chan"
+  },
+  "30238": {
+    "name": "[Even an Iron Maiden can Smile] Ikuno Dictus",
+    "title": "[Even an Iron Maiden can Smile]",
+    "chara": "Ikuno Dictus"
+  },
+  "30239": {
+    "name": "[This last one is special, okay?] Nice Nature",
+    "title": "[This last one is special, okay?]",
+    "chara": "Nice Nature"
+  },
+  "30240": {
+    "name": "[I am the Strongest!!] Jungle Pocket",
+    "title": "[I am the Strongest!!]",
+    "chara": "Jungle Pocket"
+  },
+  "30241": {
+    "name": "[Guiding Light] Embodiment of Legends",
+    "title": "[Guiding Light]",
+    "chara": "Embodiment of Legends"
+  },
+  "30242": {
+    "name": "[World-Changing Gaze] Almond Eye",
+    "title": "[World-Changing Gaze]",
+    "chara": "Almond Eye"
+  },
+  "30243": {
+    "name": "[NEW TALES AWAIT] Gran Alegria",
+    "title": "[NEW TALES AWAIT]",
+    "chara": "Gran Alegria"
+  },
+  "30244": {
+    "name": "[Arrival of Spring] Mejiro Bright",
+    "title": "[Arrival of Spring]",
+    "chara": "Mejiro Bright"
+  },
+  "30245": {
+    "name": "[Ballroom Tempest] Vodka",
+    "chara": "Vodka"
+  },
+  "30246": {
+    "name": "[Invitation to a Trance] Dream Journey",
+    "title": "[Invitation to a Trance]",
+    "chara": "Dream Journey"
+  },
+  "30247": {
+    "name": "[Operation: Escort] Symboli Kris S",
+    "chara": "Symboli Kris S"
+  },
+  "30248": {
+    "name": "[Spotless White] Daring Tact",
+    "title": "[Spotless White]",
+    "chara": "Daring Tact"
+  },
+  "30249": {
+    "name": "[Linked Parade Notes♪] Transcend",
+    "title": "[Linked Parade Notes♪]",
+    "chara": "Transcend"
+  },
+  "30250": {
+    "name": "[Luz de ensueño] Buena Vista",
+    "chara": "Buena Vista"
+  },
+  "30251": {
+    "name": "[Promised Glitter] Espoir City",
+    "title": "[Promised Glitter]",
+    "chara": "Espoir City"
+  },
+  "30252": {
+    "name": "[My Beloved Scenery] Silence Suzuka",
+    "chara": "Silence Suzuka"
+  },
+  "30253": {
+    "name": "[Unveiled Dream] Rhein Kraft",
+    "chara": "Rhein Kraft"
+  },
+  "30254": {
+    "name": "[Blooming Buds] Daring Heart",
+    "chara": "Daring Heart"
+  },
+  "30255": {
+    "name": "[Strong-growing Young Grass] Air Messiah",
+    "title": "[Strong-growing Young Grass]",
+    "chara": "Air Messiah"
+  },
+  "30256": {
+    "name": "[Like White Lightning] Tamamo Cross",
+    "title": "[Like White Lightning]",
+    "chara": "Tamamo Cross"
+  },
+  "30257": {
+    "name": "[Are Your Instincts Awakening!?] Tucker Bryne",
+    "title": "[Are Your Instincts Awakening!?]",
+    "chara": "Tucker Bryne"
+  },
+  "30258": {
+    "name": "[Eyes Aflame and a Heart Craving Victory] Mejiro Ryan",
+    "title": "[Eyes Aflame and a Heart Craving Victory]",
+    "chara": "Mejiro Ryan"
+  },
+  "30259": {
+    "name": "[Undisputed ☆ Prodigy Legend] Fusaichi Pandora",
+    "title": "[Undisputed ☆ Prodigy Legend]",
+    "chara": "Fusaichi Pandora"
+  },
+  "30260": {
+    "name": "[Grayish Party ☆] Mejiro McQueen",
+    "title": "[Grayish Party ☆]",
+    "chara": "Mejiro McQueen"
+  },
+  "30261": {
+    "name": "[Principal Water Dancer] Win Variation",
+    "title": "[Principal Water Dancer]",
+    "chara": "Win Variation"
+  },
+  "30262": {
+    "name": "[Tranquillo] Duramente",
+    "chara": "Duramente"
+  },
+  "30263": {
+    "name": "[Wonderful Smile Time♪] Vivlos",
+    "title": "[Wonderful Smile Time♪]",
+    "chara": "Vivlos"
+  },
+  "30264": {
+    "name": "[Whimsical Luminous Sky Wanderer] Stay Gold",
+    "title": "[Whimsical Luminous Sky Wanderer]",
+    "chara": "Stay Gold"
+  },
+  "30265": {
+    "name": "[Tranquil Realm of Frozen Crystals] Admire Groove",
+    "title": "[Tranquil Realm of Frozen Crystals]",
+    "chara": "Admire Groove"
+  },
+  "30266": {
+    "name": "[In the Future Ahead] Chrono Genesis",
+    "title": "[In the Future Ahead]",
+    "chara": "Chrono Genesis"
+  },
+  "30267": {
+    "name": "[Catstone Light O] Calstone Light O",
+    "title": "[Catstone Light O]",
+    "chara": "Calstone Light O"
+  },
+  "30268": {
+    "name": "[This Eve I Dedicate To You, My Lord] Durandal",
+    "title": "[This Eve I Dedicate To You, My Lord]",
+    "chara": "Durandal"
+  },
+  "30269": {
+    "name": "[Today Was Fun] Dantsu Flame",
+    "title": "[Today Was Fun]",
+    "chara": "Dantsu Flame"
+  },
+  "30270": {
+    "name": "[Inseparable] Daiichi Ruby",
+    "chara": "Daiichi Ruby"
+  },
+  "30271": {
+    "name": "[With Magic, From the Stage] Fuji Kiseki",
+    "title": "[With Magic, From the Stage]",
+    "chara": "Fuji Kiseki"
+  },
+  "30272": {
+    "name": "[Zirkus der Träume] Eishin Flash",
+    "chara": "Eishin Flash"
+  },
+  "30273": {
+    "name": "[All-Out Brilliance] Tosen Jordan",
+    "chara": "Tosen Jordan"
+  },
+  "30274": {
+    "name": "[Resolute Flora] Curren Bouquetd'or",
+    "title": "[Resolute Flora]",
+    "chara": "Curren Bouquetd'or"
+  },
+  "30275": {
+    "chara": "Tokai Teio"
+  },
+  "30276": {
+    "chara": "Hoshina Kiyoko"
+  },
+  "30277": {
+    "chara": "Mihono Bourbon"
+  },
+  "30278": {
+    "chara": "Gold Ship"
+  },
+  "30279": {
+    "chara": "Fenomeno"
+  },
+  "30280": {
+    "chara": "Orfevre"
+  },
+  "30281": {
+    "chara": "Inari One"
+  },
+  "30282": {
+    "chara": "Air Groove"
+  },
+  "30283": {
+    "chara": "Fine Motion"
+  },
+  "30284": {
+    "chara": "Bubble Gum Fellow"
+  },
+  "30285": {
+    "chara": "King Halo"
+  },
+  "30286": {
+    "chara": "Matikanefukukitaru"
+  },
+  "30287": {
+    "chara": "Neo Universe"
+  },
+  "30288": {
+    "chara": "Silence Suzuka"
+  }
+}

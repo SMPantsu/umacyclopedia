@@ -3,6 +3,7 @@
 import { state } from './state.js';
 import { initializeApp, showError } from './main.js';
 import { generateChangeLog, showChangeLogModal } from './change-log.js';
+import { isRawVeteranExport, convertVeteransToRunners } from './veteran-import.js';
 
 // Handles loading runner data from a user-selected file.
 export async function handleFileLoad() {
@@ -16,31 +17,50 @@ export async function handleFileLoad() {
         return;
     }
 
-    let fileContent;
+    let parsedData;
     try {
-        fileContent = await file.text();
-        
-        const previousRunners = state.allRunners ? [...state.allRunners] : [];
-        state.allRunners = JSON.parse(fileContent);
-
-        if (previousRunners.length > 0) {
-            state.changeLog = generateChangeLog(previousRunners, state.allRunners);
-            if (state.changeLog.added.length > 0 || state.changeLog.modified.length > 0 || state.changeLog.removed.length > 0) {
-                setTimeout(() => showChangeLogModal(), 1000);
-            }
-        }
+        const fileContent = await file.text();
+        parsedData = JSON.parse(fileContent);
     } catch (err) {
         showError(`Error reading file: ${err.message}`);
         return;
     }
 
-    if (!Array.isArray(state.allRunners)) {
+    if (!Array.isArray(parsedData)) {
         showError('Invalid file format. The JSON file must contain an array of runners.');
         return;
     }
-    
+
+    // Detect a raw veterans.json export (from UmaExtractor or similar tools)
+    // and convert it in-browser to the all_runners.json shape this viewer expects.
+    if (isRawVeteranExport(parsedData)) {
+        state.elements.loadingMessage.textContent = 'Converting veteran export...';
+        try {
+            const { records, skippedCount, totalCount } = await convertVeteransToRunners(parsedData);
+            if (skippedCount > 0) {
+                console.warn(`veteran-import: skipped ${skippedCount}/${totalCount} entries `
+                    + `(unrecognized card_id - reference data in data/reference/ may need updating).`);
+            }
+            parsedData = records;
+        } catch (err) {
+            showError(`Error converting veteran export: ${err.message}`);
+            return;
+        }
+    }
+
+    const previousRunners = state.allRunners ? [...state.allRunners] : [];
+    state.allRunners = parsedData;
+
+    if (previousRunners.length > 0) {
+        state.changeLog = generateChangeLog(previousRunners, state.allRunners);
+        if (state.changeLog.added.length > 0 || state.changeLog.modified.length > 0 || state.changeLog.removed.length > 0) {
+            setTimeout(() => showChangeLogModal(), 1000);
+        }
+    }
+
+    const finalContent = JSON.stringify(state.allRunners);
     try {
-        localStorage.setItem('savedRunnerData', fileContent);
+        localStorage.setItem('savedRunnerData', finalContent);
     } catch (e) {
         console.error("Could not save to localStorage:", e);
     }
