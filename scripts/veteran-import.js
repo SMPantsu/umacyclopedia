@@ -26,7 +26,12 @@ const REFERENCE_FILES = {
   umasFull: './data/reference/umas_full.json',
   sparkNames: './data/reference/sparknames_global.json',
   raceNames: './data/reference/racenames_global.json',
+  umamoeSkills: './data/reference/umamoe/skills.json',
+  umamoeFactors: './data/reference/umamoe/factors.json',
+  umamoeCharaNames: './data/reference/umamoe/character_names.json',
 };
+
+const UMAMOE_TYPE_TO_COLOR = { 0: 'blue', 1: 'pink', 2: 'white', 3: 'white', 4: 'white', 5: 'green', '-1': 'white' };
 
 let referenceDataCache = null;
 
@@ -64,6 +69,24 @@ async function loadReferenceData() {
   entries.forEach(([key], i) => {
     referenceDataCache[key] = results[i];
   });
+
+  // uma.moe ships these as arrays; turn them into id-keyed lookup maps.
+  const umamoeSkillsById = {};
+  for (const s of Array.isArray(referenceDataCache.umamoeSkills) ? referenceDataCache.umamoeSkills : []) {
+    if (s && s.skill_id != null && s.name) umamoeSkillsById[String(s.skill_id)] = s.name;
+  }
+  referenceDataCache.umamoeSkills = umamoeSkillsById;
+
+  const umamoeFactorsById = {};
+  for (const f of Array.isArray(referenceDataCache.umamoeFactors) ? referenceDataCache.umamoeFactors : []) {
+    if (f && f.id != null) umamoeFactorsById[f.id] = f;
+  }
+  referenceDataCache.umamoeFactors = umamoeFactorsById;
+
+  if (typeof referenceDataCache.umamoeCharaNames !== 'object' || referenceDataCache.umamoeCharaNames === null) {
+    referenceDataCache.umamoeCharaNames = {};
+  }
+
   return referenceDataCache;
 }
 
@@ -83,6 +106,8 @@ function valueToGrade(value) {
 
 function getSkillName(ref, skillId) {
   const idStr = String(skillId);
+  const umamoeName = ref.umamoeSkills[idStr];
+  if (umamoeName) return umamoeName;
   const entry = ref.skillsGlobal[idStr];
   if (Array.isArray(entry) && entry.length > 0) return entry[0];
   const jpEntry = ref.skillsJp[idStr];
@@ -93,6 +118,8 @@ function getSkillName(ref, skillId) {
 function getCharaName(ref, cardId) {
   if (!cardId) return null;
   const charaId = String(Math.floor(cardId / 100));
+  const umamoeEntry = ref.umamoeCharaNames[charaId];
+  if (umamoeEntry && umamoeEntry.name) return umamoeEntry.name;
   for (const table of [ref.umasGlobal, ref.umasFull]) {
     const uma = table[charaId];
     if (uma) {
@@ -109,9 +136,21 @@ const PINK_STYLE = { 21: 'Front Runner', 22: 'Pace Chaser', 23: 'Late Surger', 2
 const PINK_DISTANCE = { 31: 'Sprint', 32: 'Mile', 33: 'Medium', 34: 'Long' };
 
 // Decodes a single factor_id into { color, spark_name, count }.
-// See module header for provenance of these ranges.
+// Every spark ID is `base_id * 10 + star_count`. uma.moe's factors.json
+// maps base_id -> {text, type} directly and is kept current with game
+// updates, so it's tried first. Anything not yet in that curated list
+// falls back to range-based decoding against the older TheCing tables
+// (see module header for provenance).
 function getSpark(ref, factorId) {
   const fid = Number(factorId);
+
+  const baseId = Math.floor(fid / 10);
+  const star = fid % 10;
+  const umamoeEntry = ref.umamoeFactors[String(baseId)];
+  if (umamoeEntry) {
+    const color = UMAMOE_TYPE_TO_COLOR[umamoeEntry.type] || 'white';
+    return { color, spark_name: umamoeEntry.text, count: star };
+  }
 
   if (fid >= 100 && fid < 600) {
     const bucket = Math.floor(fid / 100);
