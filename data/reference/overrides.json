@@ -1,0 +1,13 @@
+{
+  "_comment": "Manual corrections for skill names where none of the automated reference sources (uma.moe, skillnames_global.json, skillnames_jp.json) matched the actual global in-game text. Add entries here as they're spotted - format is \"skill_id\": \"Correct Global Name\". This file is always checked FIRST, before any other source.",
+  "skills": {
+    "202282": "Full Tilt",
+    "210071": "I Wanna Win With You",
+    "210091": "Racing Spirit: Speed",
+    "210101": "Racing Spirit: Stamina",
+    "210111": "Racing Spirit: Power",
+    "210121": "Racing Spirit: Guts",
+    "210131": "Racing Spirit: Wit",
+    "210141": "Racing Spirit: Mood"
+  }
+}

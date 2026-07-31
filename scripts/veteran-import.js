@@ -19,6 +19,8 @@
 // (e.g. "Skill #123456"), the fix is to refresh data/reference/*.json.
 
 const REFERENCE_FILES = {
+  overrides: './data/reference/overrides.json',
+  gametoraSkills: './data/reference/gametora_skills.json',
   skillsGlobal: './data/reference/skillnames_global.json',
   skillsJp: './data/reference/skillnames_jp.json',
   skillData: './data/reference/skill_data.json',
@@ -115,13 +117,25 @@ function unescapeHtml(str) {
 }
 
 function getSkillName(ref, skillId) {
+  const idStr = String(skillId);
+
+  const override = (ref.overrides && ref.overrides.skills) ? ref.overrides.skills[idStr] : null;
+  if (override) return override;
+
+  // GameTora's community translation team tracks the game's actual global
+  // localization closely, and testing showed it's consistently correct
+  // where uma.moe's names sometimes aren't (e.g. skill 201113 - GameTora
+  // correctly has "Refraction Arc", uma.moe has the JP-literal "Photon
+  // Slash"). So it's checked right after manual overrides.
+  const gametoraName = ref.gametoraSkills[idStr];
+  if (gametoraName) return gametoraName;
+
   // skillsGlobal is a dedicated EN localization table and matches the
   // game's actual global names (and this site's own icon lookup table).
   // uma.moe's skills.json "name" field is sometimes a flavor/literal JP
   // translation instead (e.g. skill 201113 -> "Photon Slash" there, vs the
   // real global name "Refraction Arc") - so it's only used as a last resort
   // for IDs the older table doesn't have yet (very recently added skills).
-  const idStr = String(skillId);
   const entry = ref.skillsGlobal[idStr];
   if (Array.isArray(entry) && entry.length > 0) return entry[0];
   const jpEntry = ref.skillsJp[idStr];
