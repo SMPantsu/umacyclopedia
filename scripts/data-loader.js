@@ -147,25 +147,26 @@ export function extractSparkNames() {
         });
     });
 
-    if (state.orderedSparks?.blue && Array.isArray(state.orderedSparks.blue)) {
-        state.blueSparkNames = state.orderedSparks.blue.filter(name => extracted.blue.has(name));
-    } else {
-        state.blueSparkNames = [...extracted.blue].sort();
+    // For each color, start with the curated order from sparks.json (for
+    // names it knows about), then append anything the actual data contains
+    // that isn't in that list yet, alphabetically. Previously this only
+    // kept names present in BOTH the static list and the data, silently
+    // dropping any spark the site's data/sparks.json hadn't been updated
+    // for yet - so a real spark could exist on a runner's card but never
+    // appear as a filter option.
+    function buildOrderedNames(orderedList, extractedSet) {
+        const ordered = (orderedList || []).filter(name => extractedSet.has(name));
+        const orderedSet = new Set(ordered);
+        const extras = [...extractedSet].filter(name => !orderedSet.has(name)).sort();
+        return [...ordered, ...extras];
     }
-    if (state.orderedSparks?.pink && Array.isArray(state.orderedSparks.pink)) {
-        state.pinkSparkNames = state.orderedSparks.pink.filter(name => extracted.pink.has(name));
-    } else {
-        state.pinkSparkNames = [...extracted.pink].sort();
-    }
-    if (state.orderedSparks?.green && Array.isArray(state.orderedSparks.green)) {
-        state.greenSparkNames = state.orderedSparks.green.filter(name => extracted.green.has(name));
-    } else {
-        state.greenSparkNames = [...extracted.green].sort();
-    }
-    if (state.orderedSparks?.white && Array.isArray(state.orderedSparks.white.race) && Array.isArray(state.orderedSparks.white.skill)) {
-        const orderedWhiteSparks = [...state.orderedSparks.white.race, ...state.orderedSparks.white.skill];
-        state.whiteSparkNames = orderedWhiteSparks.filter(name => extracted.white.has(name));
-    } else {
-        state.whiteSparkNames = [...extracted.white].sort();
-    }
+
+    state.blueSparkNames = buildOrderedNames(state.orderedSparks?.blue, extracted.blue);
+    state.pinkSparkNames = buildOrderedNames(state.orderedSparks?.pink, extracted.pink);
+    state.greenSparkNames = buildOrderedNames(state.orderedSparks?.green, extracted.green);
+
+    const orderedWhite = state.orderedSparks?.white
+        ? [...(state.orderedSparks.white.race || []), ...(state.orderedSparks.white.skill || [])]
+        : [];
+    state.whiteSparkNames = buildOrderedNames(orderedWhite, extracted.white);
 }
