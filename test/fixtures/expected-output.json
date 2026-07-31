@@ -1,0 +1,841 @@
+{
+  "records": [
+    {
+      "entry_id": "445",
+      "last_updated": "2025-08-03 09:17:48",
+      "entry_hash": "veteran_445",
+      "name": "El Condor Pasa",
+      "score": 13883,
+      "speed": 1200,
+      "stamina": 448,
+      "power": 792,
+      "guts": 293,
+      "wit": 1200,
+      "turf": "S",
+      "dirt": "B",
+      "sprint": "F",
+      "mile": "A",
+      "medium": "A",
+      "long": "S",
+      "front": "E",
+      "pace": "A",
+      "late": "A",
+      "end": "C",
+      "gp1": "Vodka",
+      "gp2": "Super Creek",
+      "skills": [
+        "Victoria por plancha ☆",
+        "Tokyo Racecourse ○",
+        "Professor of Curvature",
+        "Corner Recovery ○",
+        "Straightaway Adept",
+        "Straightaway Acceleration",
+        "Stamina to Spare",
+        "Speed Star",
+        "Subdued Front Runners",
+        "Hesitant Pace Chasers",
+        "Pure Heart"
+      ],
+      "sparks": {
+        "parent": [
+          {
+            "color": "blue",
+            "spark_name": "Wit",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Mile",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Takarazuka Kinen",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Japan C.",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Tokyo Racecourse ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Adept ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Recovery ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "URA Finale",
+            "count": 1
+          },
+          {
+            "color": "green",
+            "spark_name": "Victoria por plancha ☆",
+            "count": 1
+          }
+        ],
+        "gp1": [
+          {
+            "color": "blue",
+            "spark_name": "Stamina",
+            "count": 3
+          },
+          {
+            "color": "pink",
+            "spark_name": "Medium",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Japanese Derby",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Tenno Sho (Autumn)",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Hanshin J.F.",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Recovery ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Prepared to Pass",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Hydrate",
+            "count": 1
+          }
+        ],
+        "gp2": [
+          {
+            "color": "blue",
+            "spark_name": "Power",
+            "count": 3
+          },
+          {
+            "color": "pink",
+            "spark_name": "Pace Chaser",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Japan C.",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Arima Kinen",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Nakayama Racecourse ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Kyoto Racecourse ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Straightaway Recovery",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Ramp Up",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Prepared to Pass",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "URA Finale",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Pure Heart",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "entry_id": "1023",
+      "last_updated": "2025-09-25 09:18:27",
+      "entry_hash": "veteran_1023",
+      "name": "Seiun Sky",
+      "score": 10950,
+      "speed": 1185,
+      "stamina": 536,
+      "power": 639,
+      "guts": 281,
+      "wit": 650,
+      "turf": "A",
+      "dirt": "G",
+      "sprint": "G",
+      "mile": "S",
+      "medium": "A",
+      "long": "A",
+      "front": "A",
+      "pace": "B",
+      "late": "D",
+      "end": "E",
+      "gp1": "El Condor Pasa",
+      "gp2": "Mejiro McQueen",
+      "skills": [
+        "Angling and Scheming",
+        "Standard Distance ◎",
+        "Corner Adept ○",
+        "Homestretch Haste",
+        "Early Lead",
+        "Fast-Paced",
+        "Final Push",
+        "Front Runner Straightaways ○",
+        "Leader's Pride",
+        "Front Runner Savvy ○",
+        "Groundwork",
+        "Lone Wolf",
+        "The Duty of Dignity Calls",
+        "Victoria por plancha ☆"
+      ],
+      "sparks": {
+        "parent": [
+          {
+            "color": "blue",
+            "spark_name": "Guts",
+            "count": 1
+          },
+          {
+            "color": "pink",
+            "spark_name": "Long",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Fast-Paced",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Front Runner Straightaways ○",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Front Runner Savvy ○",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Angling and Scheming",
+            "count": 1
+          }
+        ],
+        "gp1": [
+          {
+            "color": "blue",
+            "spark_name": "Stamina",
+            "count": 3
+          },
+          {
+            "color": "pink",
+            "spark_name": "Mile",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Summer Runner ○",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Adept ○",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Leader's Pride",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Groundwork",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Victoria por plancha ☆",
+            "count": 2
+          }
+        ],
+        "gp2": [
+          {
+            "color": "blue",
+            "spark_name": "Stamina",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Mile",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Osaka Hai",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Tenno Sho (Autumn)",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Queen Elizabeth II Cup",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Recovery ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Focus",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Front Runner Straightaways ○",
+            "count": 1
+          },
+          {
+            "color": "green",
+            "spark_name": "The Duty of Dignity Calls",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "entry_id": "3482",
+      "last_updated": "2026-06-26 08:16:03",
+      "entry_hash": "veteran_3482",
+      "name": "Oguri Cap",
+      "score": 17421,
+      "speed": 1200,
+      "stamina": 828,
+      "power": 1058,
+      "guts": 412,
+      "wit": 1120,
+      "turf": "A",
+      "dirt": "B",
+      "sprint": "E",
+      "mile": "A",
+      "medium": "A",
+      "long": "A",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "D",
+      "gp1": "Mejiro McQueen",
+      "gp2": "TM Opera O",
+      "skills": [
+        "Festive Miracle",
+        "Right-Handed ◎",
+        "Professor of Curvature",
+        "Nimble Navigator",
+        "Homestretch Haste",
+        "Prepared to Pass",
+        "Killer Tunes",
+        "Refraction Arc",
+        "Soft Step",
+        "Hydrate",
+        "Pace Chaser Savvy ○",
+        "Triple 7s",
+        "Uma Stan",
+        "Fighting Spirit",
+        "The Duty of Dignity Calls",
+        "Barcarole of Blessings"
+      ],
+      "sparks": {
+        "parent": [
+          {
+            "color": "blue",
+            "spark_name": "Wit",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Mile",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Satsuki Sho",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "NHK Mile C.",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Yasuda Kinen",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Tenno Sho (Autumn)",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Queen Elizabeth II Cup",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Hanshin J.F.",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Hopeful S.",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Homestretch Haste",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Festive Miracle",
+            "count": 2
+          }
+        ],
+        "gp1": [
+          {
+            "color": "blue",
+            "spark_name": "Stamina",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Medium",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "The Duty of Dignity Calls",
+            "count": 2
+          }
+        ],
+        "gp2": [
+          {
+            "color": "blue",
+            "spark_name": "Stamina",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Medium",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Queen Elizabeth II Cup",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Adept ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Recovery ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Nimble Navigator",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Up-Tempo",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Medium Straightaways ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Medium Corners ○",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Soft Step",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Straight Descent",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "All I've Got",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "With All My Soul",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Glittering Star",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Barcarole of Blessings",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "entry_id": "3716",
+      "last_updated": "2026-07-22 23:05:55",
+      "entry_hash": "veteran_3716",
+      "name": "Gold City",
+      "score": 21681,
+      "speed": 1165,
+      "stamina": 821,
+      "power": 1075,
+      "guts": 828,
+      "wit": 917,
+      "turf": "A",
+      "dirt": "D",
+      "sprint": "A",
+      "mile": "A",
+      "medium": "A",
+      "long": "B",
+      "front": "F",
+      "pace": "A",
+      "late": "A",
+      "end": "F",
+      "gp1": "Oguri Cap",
+      "gp2": "Taiki Shuttle",
+      "skills": [
+        "KEEP IT REAL.",
+        "Tokyo Racecourse ○",
+        "Nakayama Racecourse ○",
+        "Hanshin Racecourse ○",
+        "Firm Conditions ○",
+        "Competitive Spirit ○",
+        "Straightaway Adept",
+        "Iron Will",
+        "Prudent Positioning",
+        "Calm in a Crowd",
+        "Nimble Navigator",
+        "Prepared to Pass",
+        "On Your Left!",
+        "Keen Eye",
+        "Updrafters",
+        "Hesitant Pace Chasers",
+        "Acceleration",
+        "Refraction Arc",
+        "Hawkeye",
+        "Pace Chaser Corners ◎",
+        "Tactical Tweak",
+        "A Small Breather",
+        "Sharp Gaze",
+        "End Closer Straightaways ◎",
+        "Tail Held High",
+        "Slipstream",
+        "Fighting Spirit",
+        "Full Throttle",
+        "Ignited Spirit SPD",
+        "Ignited Spirit PWR",
+        "Past My Limits",
+        "Racing Spirit: Power",
+        "Racing Spirit: Wit"
+      ],
+      "sparks": {
+        "parent": [
+          {
+            "color": "blue",
+            "spark_name": "Wit",
+            "count": 1
+          },
+          {
+            "color": "pink",
+            "spark_name": "Turf",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Kikuka Sho",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Nakayama Racecourse ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Hanshin Racecourse ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Firm Conditions ○",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Nimble Navigator",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Hesitant Pace Chasers",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Medium Corners ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Pace Chaser Corners ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "A Small Breather",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Sharp Gaze",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "End Closer Straightaways ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Ignited Spirit PWR",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Tenno Sho (Autumn)",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Champions Cup",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "KEEP IT REAL.",
+            "count": 2
+          }
+        ],
+        "gp1": [
+          {
+            "color": "blue",
+            "spark_name": "Speed",
+            "count": 2
+          },
+          {
+            "color": "pink",
+            "spark_name": "Sprint",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Osaka Hai",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Victoria Mile",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Takarazuka Kinen",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Queen Elizabeth II Cup",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Hanshin J.F.",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Right-Handed ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Corner Adept ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Nimble Navigator",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Prepared to Pass",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Pace Chaser Corners ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Slipstream",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Ignited Spirit PWR",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Aoharu Ignition - Wit+",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Triumphant Pulse",
+            "count": 2
+          }
+        ],
+        "gp2": [
+          {
+            "color": "blue",
+            "spark_name": "Guts",
+            "count": 1
+          },
+          {
+            "color": "pink",
+            "spark_name": "Sprint",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "NHK Mile C.",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Victoria Mile",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Firm Conditions ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Prepared to Pass",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Pace Chaser Straightaways ○",
+            "count": 3
+          },
+          {
+            "color": "white",
+            "spark_name": "Pace Chaser Corners ○",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Tail Held High",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Ignited Spirit SPD",
+            "count": 2
+          },
+          {
+            "color": "white",
+            "spark_name": "Ignited Spirit GUTS",
+            "count": 1
+          },
+          {
+            "color": "white",
+            "spark_name": "Arima Kinen",
+            "count": 2
+          },
+          {
+            "color": "green",
+            "spark_name": "Shooting for Victory!",
+            "count": 2
+          }
+        ]
+      }
+    }
+  ],
+  "skippedCount": 0,
+  "totalCount": 4
+}

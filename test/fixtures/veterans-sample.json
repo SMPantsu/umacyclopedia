@@ -1,0 +1,3435 @@
+[
+  {
+    "trained_chara_id": 445,
+    "owner_trained_chara_id": 0,
+    "use_type": 0,
+    "card_id": 101401,
+    "name": null,
+    "stamina": 448,
+    "speed": 1200,
+    "power": 792,
+    "guts": 293,
+    "wiz": 1200,
+    "fans": 363315,
+    "rank_score": 13883,
+    "rank": 14,
+    "proper_distance_short": 2,
+    "proper_distance_mile": 7,
+    "proper_distance_middle": 7,
+    "proper_distance_long": 8,
+    "proper_running_style_nige": 3,
+    "proper_running_style_senko": 7,
+    "proper_running_style_sashi": 7,
+    "proper_running_style_oikomi": 5,
+    "proper_ground_turf": 8,
+    "proper_ground_dirt": 6,
+    "succession_num": 3,
+    "is_locked": 0,
+    "rarity": 3,
+    "talent_level": 2,
+    "chara_grade": 10,
+    "running_style": 2,
+    "nickname_id": 63,
+    "wins": 0,
+    "skill_array": [
+      {
+        "skill_id": 100141,
+        "level": 4
+      },
+      {
+        "skill_id": 200032,
+        "level": 1
+      },
+      {
+        "skill_id": 200331,
+        "level": 1
+      },
+      {
+        "skill_id": 200352,
+        "level": 1
+      },
+      {
+        "skill_id": 200362,
+        "level": 1
+      },
+      {
+        "skill_id": 200372,
+        "level": 1
+      },
+      {
+        "skill_id": 200562,
+        "level": 1
+      },
+      {
+        "skill_id": 200581,
+        "level": 1
+      },
+      {
+        "skill_id": 200831,
+        "level": 1
+      },
+      {
+        "skill_id": 200881,
+        "level": 1
+      },
+      {
+        "skill_id": 900451,
+        "level": 1
+      }
+    ],
+    "support_card_list": [
+      {
+        "position": 1,
+        "support_card_id": 30028,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 2,
+        "support_card_id": 20023,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 3,
+        "support_card_id": 20020,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 4,
+        "support_card_id": 20015,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 5,
+        "support_card_id": 20012,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 6,
+        "support_card_id": 30010,
+        "exp": 118185,
+        "limit_break_count": 4
+      }
+    ],
+    "is_saved": 1,
+    "race_result_list": [
+      {
+        "turn": 12,
+        "program_id": 846,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 27,
+        "program_id": 183,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 31,
+        "program_id": 163,
+        "weather": 3,
+        "ground_condition": 4,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 33,
+        "program_id": 164,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 34,
+        "program_id": 166,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 43,
+        "program_id": 86,
+        "weather": 2,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 60,
+        "program_id": 74,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 70,
+        "program_id": 79,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 72,
+        "program_id": 81,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 74,
+        "program_id": 2018,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 76,
+        "program_id": 2123,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 78,
+        "program_id": 2216,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 1
+      }
+    ],
+    "win_saddle_id_array": [
+      6,
+      10,
+      11,
+      12,
+      14,
+      18,
+      27,
+      65,
+      85
+    ],
+    "nickname_id_array": [
+      8,
+      16,
+      18,
+      24,
+      26,
+      34,
+      42,
+      51,
+      61,
+      63,
+      92,
+      98,
+      103,
+      106,
+      108,
+      120,
+      122,
+      128,
+      129,
+      130,
+      131,
+      140
+    ],
+    "factor_info_array": [
+      {
+        "factor_id": 502,
+        "level": 0
+      },
+      {
+        "factor_id": 3202,
+        "level": 0
+      },
+      {
+        "factor_id": 1001202,
+        "level": 0
+      },
+      {
+        "factor_id": 1001902,
+        "level": 0
+      },
+      {
+        "factor_id": 2000302,
+        "level": 0
+      },
+      {
+        "factor_id": 2003302,
+        "level": 0
+      },
+      {
+        "factor_id": 2003502,
+        "level": 0
+      },
+      {
+        "factor_id": 3000101,
+        "level": 0
+      },
+      {
+        "factor_id": 10140101,
+        "level": 0
+      }
+    ],
+    "factor_extend_array": [],
+    "succession_chara_array": [
+      {
+        "position_id": 10,
+        "card_id": 100801,
+        "rank": 12,
+        "rarity": 2,
+        "talent_level": 2,
+        "factor_info_array": [
+          {
+            "factor_id": 203,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1001002,
+            "level": 0
+          },
+          {
+            "factor_id": 1001602,
+            "level": 0
+          },
+          {
+            "factor_id": 1002103,
+            "level": 0
+          },
+          {
+            "factor_id": 2003502,
+            "level": 0
+          },
+          {
+            "factor_id": 2005802,
+            "level": 0
+          },
+          {
+            "factor_id": 2013501,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          12,
+          15,
+          21,
+          25,
+          28,
+          35,
+          46,
+          91
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 20,
+        "card_id": 104501,
+        "rank": 12,
+        "rarity": 3,
+        "talent_level": 3,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 2202,
+            "level": 0
+          },
+          {
+            "factor_id": 1001902,
+            "level": 0
+          },
+          {
+            "factor_id": 1002302,
+            "level": 0
+          },
+          {
+            "factor_id": 2000402,
+            "level": 0
+          },
+          {
+            "factor_id": 2000602,
+            "level": 0
+          },
+          {
+            "factor_id": 2003801,
+            "level": 0
+          },
+          {
+            "factor_id": 2004602,
+            "level": 0
+          },
+          {
+            "factor_id": 2005802,
+            "level": 0
+          },
+          {
+            "factor_id": 3000102,
+            "level": 0
+          },
+          {
+            "factor_id": 10450101,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          2,
+          5,
+          6,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          18,
+          34
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 11,
+        "card_id": 100601,
+        "rank": 12,
+        "rarity": 3,
+        "talent_level": 1,
+        "factor_info_array": [
+          {
+            "factor_id": 203,
+            "level": 0
+          },
+          {
+            "factor_id": 3402,
+            "level": 0
+          },
+          {
+            "factor_id": 1001101,
+            "level": 0
+          },
+          {
+            "factor_id": 1001802,
+            "level": 0
+          },
+          {
+            "factor_id": 2003502,
+            "level": 0
+          },
+          {
+            "factor_id": 2003601,
+            "level": 0
+          },
+          {
+            "factor_id": 2004802,
+            "level": 0
+          },
+          {
+            "factor_id": 3000101,
+            "level": 0
+          },
+          {
+            "factor_id": 10060102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          7,
+          10,
+          15,
+          21,
+          23,
+          25,
+          132
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 12,
+        "card_id": 101701,
+        "rank": 13,
+        "rarity": 3,
+        "talent_level": 3,
+        "factor_info_array": [
+          {
+            "factor_id": 203,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1002401,
+            "level": 0
+          },
+          {
+            "factor_id": 2001602,
+            "level": 0
+          },
+          {
+            "factor_id": 10170102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          10,
+          11,
+          12,
+          13,
+          18,
+          34,
+          35
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 21,
+        "card_id": 101701,
+        "rank": 12,
+        "rarity": 3,
+        "talent_level": 3,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 1102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000501,
+            "level": 0
+          },
+          {
+            "factor_id": 1000601,
+            "level": 0
+          },
+          {
+            "factor_id": 1001502,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 3000102,
+            "level": 0
+          },
+          {
+            "factor_id": 10170102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          34,
+          130
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 22,
+        "card_id": 100601,
+        "rank": 12,
+        "rarity": 3,
+        "talent_level": 3,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 2302,
+            "level": 0
+          },
+          {
+            "factor_id": 1002302,
+            "level": 0
+          },
+          {
+            "factor_id": 3000101,
+            "level": 0
+          },
+          {
+            "factor_id": 10060101,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          10,
+          15,
+          25,
+          30,
+          65,
+          137
+        ],
+        "user_info_summary": null
+      }
+    ],
+    "scenario_id": 1,
+    "create_time": "2025-08-03 09:17:48"
+  },
+  {
+    "trained_chara_id": 1023,
+    "owner_trained_chara_id": 0,
+    "use_type": 0,
+    "card_id": 102001,
+    "name": null,
+    "stamina": 536,
+    "speed": 1185,
+    "power": 639,
+    "guts": 281,
+    "wiz": 650,
+    "fans": 432058,
+    "rank_score": 10950,
+    "rank": 13,
+    "proper_distance_short": 1,
+    "proper_distance_mile": 8,
+    "proper_distance_middle": 7,
+    "proper_distance_long": 7,
+    "proper_running_style_nige": 7,
+    "proper_running_style_senko": 6,
+    "proper_running_style_sashi": 4,
+    "proper_running_style_oikomi": 3,
+    "proper_ground_turf": 7,
+    "proper_ground_dirt": 1,
+    "succession_num": 127,
+    "is_locked": 0,
+    "rarity": 3,
+    "talent_level": 5,
+    "chara_grade": 10,
+    "running_style": 1,
+    "nickname_id": 54,
+    "wins": 0,
+    "skill_array": [
+      {
+        "skill_id": 100201,
+        "level": 4
+      },
+      {
+        "skill_id": 200131,
+        "level": 1
+      },
+      {
+        "skill_id": 200332,
+        "level": 1
+      },
+      {
+        "skill_id": 200512,
+        "level": 1
+      },
+      {
+        "skill_id": 200532,
+        "level": 1
+      },
+      {
+        "skill_id": 200542,
+        "level": 1
+      },
+      {
+        "skill_id": 200552,
+        "level": 1
+      },
+      {
+        "skill_id": 201242,
+        "level": 1
+      },
+      {
+        "skill_id": 201272,
+        "level": 1
+      },
+      {
+        "skill_id": 201522,
+        "level": 1
+      },
+      {
+        "skill_id": 201601,
+        "level": 1
+      },
+      {
+        "skill_id": 201641,
+        "level": 1
+      },
+      {
+        "skill_id": 900131,
+        "level": 1
+      },
+      {
+        "skill_id": 900141,
+        "level": 1
+      }
+    ],
+    "support_card_list": [
+      {
+        "position": 1,
+        "support_card_id": 30028,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 2,
+        "support_card_id": 20013,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 3,
+        "support_card_id": 30002,
+        "exp": 56935,
+        "limit_break_count": 2
+      },
+      {
+        "position": 4,
+        "support_card_id": 20023,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 5,
+        "support_card_id": 20009,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 6,
+        "support_card_id": 30010,
+        "exp": 118185,
+        "limit_break_count": 4
+      }
+    ],
+    "is_saved": 1,
+    "race_result_list": [
+      {
+        "turn": 12,
+        "program_id": 689,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 23,
+        "program_id": 623,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 31,
+        "program_id": 163,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 33,
+        "program_id": 164,
+        "weather": 2,
+        "ground_condition": 2,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 34,
+        "program_id": 166,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 44,
+        "program_id": 168,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 2
+      },
+      {
+        "turn": 46,
+        "program_id": 79,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 48,
+        "program_id": 81,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 56,
+        "program_id": 4,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 2
+      },
+      {
+        "turn": 60,
+        "program_id": 74,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 68,
+        "program_id": 76,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 72,
+        "program_id": 81,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 74,
+        "program_id": 2024,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 76,
+        "program_id": 2125,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 1,
+        "result_rank": 1
+      },
+      {
+        "turn": 78,
+        "program_id": 2222,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 1,
+        "result_rank": 1
+      }
+    ],
+    "win_saddle_id_array": [
+      2,
+      6,
+      10,
+      11,
+      12,
+      14,
+      15,
+      18,
+      27,
+      35
+    ],
+    "nickname_id_array": [
+      2,
+      7,
+      21,
+      24,
+      26,
+      29,
+      39,
+      40,
+      42,
+      49,
+      51,
+      54,
+      59,
+      63,
+      92,
+      98,
+      106,
+      128,
+      130,
+      131,
+      140
+    ],
+    "factor_info_array": [
+      {
+        "factor_id": 401,
+        "level": 0
+      },
+      {
+        "factor_id": 3403,
+        "level": 0
+      },
+      {
+        "factor_id": 2005402,
+        "level": 0
+      },
+      {
+        "factor_id": 2012401,
+        "level": 0
+      },
+      {
+        "factor_id": 2015202,
+        "level": 0
+      },
+      {
+        "factor_id": 10200101,
+        "level": 0
+      }
+    ],
+    "factor_extend_array": [],
+    "succession_chara_array": [
+      {
+        "position_id": 10,
+        "card_id": 101401,
+        "rank": 11,
+        "rarity": 3,
+        "talent_level": 2,
+        "factor_info_array": [
+          {
+            "factor_id": 203,
+            "level": 0
+          },
+          {
+            "factor_id": 3202,
+            "level": 0
+          },
+          {
+            "factor_id": 2001801,
+            "level": 0
+          },
+          {
+            "factor_id": 2003301,
+            "level": 0
+          },
+          {
+            "factor_id": 2012702,
+            "level": 0
+          },
+          {
+            "factor_id": 2016002,
+            "level": 0
+          },
+          {
+            "factor_id": 10140102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          6,
+          7,
+          10,
+          11,
+          14,
+          21,
+          23,
+          34,
+          65,
+          85
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 20,
+        "card_id": 101301,
+        "rank": 12,
+        "rarity": 3,
+        "talent_level": 2,
+        "factor_info_array": [
+          {
+            "factor_id": 202,
+            "level": 0
+          },
+          {
+            "factor_id": 3201,
+            "level": 0
+          },
+          {
+            "factor_id": 1000301,
+            "level": 0
+          },
+          {
+            "factor_id": 1001602,
+            "level": 0
+          },
+          {
+            "factor_id": 1001702,
+            "level": 0
+          },
+          {
+            "factor_id": 2003502,
+            "level": 0
+          },
+          {
+            "factor_id": 2004302,
+            "level": 0
+          },
+          {
+            "factor_id": 2012401,
+            "level": 0
+          },
+          {
+            "factor_id": 10130102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          145,
+          5,
+          13,
+          147,
+          15,
+          17,
+          19,
+          26,
+          34,
+          63
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 11,
+        "card_id": 105601,
+        "rank": 11,
+        "rarity": 2,
+        "talent_level": 1,
+        "factor_info_array": [
+          {
+            "factor_id": 401,
+            "level": 0
+          },
+          {
+            "factor_id": 1102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000502,
+            "level": 0
+          },
+          {
+            "factor_id": 1001202,
+            "level": 0
+          },
+          {
+            "factor_id": 1002401,
+            "level": 0
+          },
+          {
+            "factor_id": 2001302,
+            "level": 0
+          },
+          {
+            "factor_id": 2005501,
+            "level": 0
+          },
+          {
+            "factor_id": 2016002,
+            "level": 0
+          },
+          {
+            "factor_id": 2016602,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          6,
+          10,
+          14,
+          15,
+          16,
+          18,
+          34,
+          45,
+          46
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 12,
+        "card_id": 102001,
+        "rank": 13,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 202,
+            "level": 0
+          },
+          {
+            "factor_id": 3202,
+            "level": 0
+          },
+          {
+            "factor_id": 1001001,
+            "level": 0
+          },
+          {
+            "factor_id": 1001501,
+            "level": 0
+          },
+          {
+            "factor_id": 1001602,
+            "level": 0
+          },
+          {
+            "factor_id": 1001903,
+            "level": 0
+          },
+          {
+            "factor_id": 1002102,
+            "level": 0
+          },
+          {
+            "factor_id": 2001302,
+            "level": 0
+          },
+          {
+            "factor_id": 2004602,
+            "level": 0
+          },
+          {
+            "factor_id": 2015201,
+            "level": 0
+          },
+          {
+            "factor_id": 2016002,
+            "level": 0
+          },
+          {
+            "factor_id": 3000102,
+            "level": 0
+          },
+          {
+            "factor_id": 10200102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          1,
+          2,
+          6,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          25,
+          26,
+          27,
+          35
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 21,
+        "card_id": 102601,
+        "rank": 13,
+        "rarity": 3,
+        "talent_level": 4,
+        "factor_info_array": [
+          {
+            "factor_id": 102,
+            "level": 0
+          },
+          {
+            "factor_id": 3202,
+            "level": 0
+          },
+          {
+            "factor_id": 1002301,
+            "level": 0
+          },
+          {
+            "factor_id": 1002402,
+            "level": 0
+          },
+          {
+            "factor_id": 2012401,
+            "level": 0
+          },
+          {
+            "factor_id": 2016001,
+            "level": 0
+          },
+          {
+            "factor_id": 2016101,
+            "level": 0
+          },
+          {
+            "factor_id": 10260102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          4,
+          6,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          26,
+          33,
+          34,
+          49
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 22,
+        "card_id": 100801,
+        "rank": 13,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 101,
+            "level": 0
+          },
+          {
+            "factor_id": 3202,
+            "level": 0
+          },
+          {
+            "factor_id": 1000702,
+            "level": 0
+          },
+          {
+            "factor_id": 1002402,
+            "level": 0
+          },
+          {
+            "factor_id": 2001802,
+            "level": 0
+          },
+          {
+            "factor_id": 2003802,
+            "level": 0
+          },
+          {
+            "factor_id": 2005102,
+            "level": 0
+          },
+          {
+            "factor_id": 2010701,
+            "level": 0
+          },
+          {
+            "factor_id": 2012402,
+            "level": 0
+          },
+          {
+            "factor_id": 2016002,
+            "level": 0
+          },
+          {
+            "factor_id": 2016602,
+            "level": 0
+          },
+          {
+            "factor_id": 3000102,
+            "level": 0
+          },
+          {
+            "factor_id": 10080102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          7,
+          11,
+          15,
+          17,
+          21,
+          23,
+          24,
+          25,
+          27,
+          28,
+          34,
+          35,
+          91
+        ],
+        "user_info_summary": null
+      }
+    ],
+    "scenario_id": 1,
+    "create_time": "2025-09-25 09:18:27"
+  },
+  {
+    "trained_chara_id": 3482,
+    "owner_trained_chara_id": 0,
+    "use_type": 0,
+    "card_id": 100602,
+    "name": null,
+    "stamina": 828,
+    "speed": 1200,
+    "power": 1058,
+    "guts": 412,
+    "wiz": 1120,
+    "fans": 763237,
+    "rank_score": 17421,
+    "rank": 16,
+    "proper_distance_short": 3,
+    "proper_distance_mile": 7,
+    "proper_distance_middle": 7,
+    "proper_distance_long": 7,
+    "proper_running_style_nige": 2,
+    "proper_running_style_senko": 7,
+    "proper_running_style_sashi": 7,
+    "proper_running_style_oikomi": 4,
+    "proper_ground_turf": 7,
+    "proper_ground_dirt": 6,
+    "succession_num": 0,
+    "is_locked": 1,
+    "rarity": 3,
+    "talent_level": 5,
+    "chara_grade": 10,
+    "running_style": 2,
+    "nickname_id": 84,
+    "wins": 28,
+    "skill_array": [
+      {
+        "skill_id": 110061,
+        "level": 4
+      },
+      {
+        "skill_id": 200011,
+        "level": 1
+      },
+      {
+        "skill_id": 200331,
+        "level": 1
+      },
+      {
+        "skill_id": 200492,
+        "level": 1
+      },
+      {
+        "skill_id": 200512,
+        "level": 1
+      },
+      {
+        "skill_id": 200582,
+        "level": 1
+      },
+      {
+        "skill_id": 200721,
+        "level": 1
+      },
+      {
+        "skill_id": 201113,
+        "level": 1
+      },
+      {
+        "skill_id": 201142,
+        "level": 1
+      },
+      {
+        "skill_id": 201352,
+        "level": 1
+      },
+      {
+        "skill_id": 201532,
+        "level": 1
+      },
+      {
+        "skill_id": 201571,
+        "level": 1
+      },
+      {
+        "skill_id": 201591,
+        "level": 1
+      },
+      {
+        "skill_id": 202092,
+        "level": 1
+      },
+      {
+        "skill_id": 900131,
+        "level": 1
+      },
+      {
+        "skill_id": 910151,
+        "level": 1
+      }
+    ],
+    "support_card_list": [
+      {
+        "position": 1,
+        "support_card_id": 30028,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 2,
+        "support_card_id": 30086,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 3,
+        "support_card_id": 30067,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 4,
+        "support_card_id": 30010,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 5,
+        "support_card_id": 30054,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 6,
+        "support_card_id": 30007,
+        "exp": 118185,
+        "limit_break_count": 4
+      }
+    ],
+    "is_saved": 1,
+    "race_result_list": [
+      {
+        "turn": 12,
+        "program_id": 1070,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 16,
+        "program_id": 629,
+        "weather": 2,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 2
+      },
+      {
+        "turn": 17,
+        "program_id": 630,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 22,
+        "program_id": 635,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 23,
+        "program_id": 623,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 24,
+        "program_id": 625,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 31,
+        "program_id": 163,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 33,
+        "program_id": 164,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 34,
+        "program_id": 166,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 36,
+        "program_id": 74,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 41,
+        "program_id": 109,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 42,
+        "program_id": 85,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 44,
+        "program_id": 168,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 45,
+        "program_id": 77,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 46,
+        "program_id": 78,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 48,
+        "program_id": 81,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 50,
+        "program_id": 8,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 54,
+        "program_id": 3,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 56,
+        "program_id": 4,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 57,
+        "program_id": 5,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 59,
+        "program_id": 73,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 66,
+        "program_id": 85,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 68,
+        "program_id": 76,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 69,
+        "program_id": 77,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 70,
+        "program_id": 79,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 72,
+        "program_id": 81,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 74,
+        "program_id": 2321,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 76,
+        "program_id": 2422,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 2,
+        "result_rank": 1
+      },
+      {
+        "turn": 78,
+        "program_id": 2521,
+        "weather": 4,
+        "ground_condition": 3,
+        "running_style": 2,
+        "result_rank": 1
+      }
+    ],
+    "win_saddle_id_array": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      23,
+      25,
+      26,
+      27,
+      34,
+      35,
+      42,
+      64,
+      124,
+      126,
+      137
+    ],
+    "nickname_id_array": [
+      2,
+      7,
+      8,
+      10,
+      16,
+      24,
+      26,
+      28,
+      29,
+      30,
+      31,
+      32,
+      34,
+      38,
+      39,
+      42,
+      49,
+      52,
+      54,
+      55,
+      59,
+      84,
+      92,
+      103,
+      104,
+      106,
+      110,
+      113,
+      114,
+      120,
+      121,
+      122,
+      128,
+      129,
+      130,
+      131,
+      133,
+      140,
+      141,
+      145,
+      180,
+      181,
+      182,
+      184,
+      185,
+      187,
+      189,
+      190,
+      191,
+      192,
+      202,
+      203,
+      204,
+      208,
+      209,
+      217,
+      220,
+      221
+    ],
+    "factor_info_array": [
+      {
+        "factor_id": 502,
+        "level": 0
+      },
+      {
+        "factor_id": 3202,
+        "level": 0
+      },
+      {
+        "factor_id": 1000503,
+        "level": 0
+      },
+      {
+        "factor_id": 1000701,
+        "level": 0
+      },
+      {
+        "factor_id": 1001102,
+        "level": 0
+      },
+      {
+        "factor_id": 1001603,
+        "level": 0
+      },
+      {
+        "factor_id": 1001701,
+        "level": 0
+      },
+      {
+        "factor_id": 1002101,
+        "level": 0
+      },
+      {
+        "factor_id": 1002401,
+        "level": 0
+      },
+      {
+        "factor_id": 2005102,
+        "level": 0
+      },
+      {
+        "factor_id": 10060202,
+        "level": 0
+      }
+    ],
+    "factor_extend_array": [],
+    "succession_chara_array": [
+      {
+        "position_id": 10,
+        "card_id": 101301,
+        "rank": 13,
+        "rarity": 3,
+        "talent_level": 2,
+        "factor_info_array": [
+          {
+            "factor_id": 202,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 10130102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          5,
+          13,
+          147,
+          15,
+          16
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 20,
+        "card_id": 101502,
+        "rank": 17,
+        "rarity": 4,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 202,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1001701,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 2003502,
+            "level": 0
+          },
+          {
+            "factor_id": 2004902,
+            "level": 0
+          },
+          {
+            "factor_id": 2007202,
+            "level": 0
+          },
+          {
+            "factor_id": 2011002,
+            "level": 0
+          },
+          {
+            "factor_id": 2011101,
+            "level": 0
+          },
+          {
+            "factor_id": 2011402,
+            "level": 0
+          },
+          {
+            "factor_id": 2013402,
+            "level": 0
+          },
+          {
+            "factor_id": 2017002,
+            "level": 0
+          },
+          {
+            "factor_id": 2021301,
+            "level": 0
+          },
+          {
+            "factor_id": 2100602,
+            "level": 0
+          },
+          {
+            "factor_id": 10150202,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          26,
+          34,
+          40,
+          42,
+          43,
+          46,
+          58,
+          63,
+          64,
+          79,
+          82,
+          87,
+          117,
+          126,
+          138,
+          140
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 11,
+        "card_id": 101401,
+        "rank": 14,
+        "rarity": 3,
+        "talent_level": 2,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 3402,
+            "level": 0
+          },
+          {
+            "factor_id": 2003301,
+            "level": 0
+          },
+          {
+            "factor_id": 2005801,
+            "level": 0
+          },
+          {
+            "factor_id": 2007702,
+            "level": 0
+          },
+          {
+            "factor_id": 2008502,
+            "level": 0
+          },
+          {
+            "factor_id": 10140102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          2,
+          6,
+          10,
+          11,
+          14,
+          15,
+          27,
+          30,
+          65,
+          85
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 12,
+        "card_id": 103001,
+        "rank": 11,
+        "rarity": 3,
+        "talent_level": 1,
+        "factor_info_array": [
+          {
+            "factor_id": 201,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 2000101,
+            "level": 0
+          },
+          {
+            "factor_id": 2001501,
+            "level": 0
+          },
+          {
+            "factor_id": 2003501,
+            "level": 0
+          },
+          {
+            "factor_id": 2005103,
+            "level": 0
+          },
+          {
+            "factor_id": 3000102,
+            "level": 0
+          },
+          {
+            "factor_id": 10300102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          10,
+          12,
+          13,
+          16,
+          50,
+          130
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 21,
+        "card_id": 105901,
+        "rank": 17,
+        "rarity": 4,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1000302,
+            "level": 0
+          },
+          {
+            "factor_id": 1000602,
+            "level": 0
+          },
+          {
+            "factor_id": 1001002,
+            "level": 0
+          },
+          {
+            "factor_id": 1001102,
+            "level": 0
+          },
+          {
+            "factor_id": 1001603,
+            "level": 0
+          },
+          {
+            "factor_id": 1001802,
+            "level": 0
+          },
+          {
+            "factor_id": 1002302,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 2004902,
+            "level": 0
+          },
+          {
+            "factor_id": 2005102,
+            "level": 0
+          },
+          {
+            "factor_id": 2005903,
+            "level": 0
+          },
+          {
+            "factor_id": 2006002,
+            "level": 0
+          },
+          {
+            "factor_id": 2015403,
+            "level": 0
+          },
+          {
+            "factor_id": 2015902,
+            "level": 0
+          },
+          {
+            "factor_id": 2100602,
+            "level": 0
+          },
+          {
+            "factor_id": 3000301,
+            "level": 0
+          },
+          {
+            "factor_id": 10590102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          23,
+          25,
+          26,
+          27,
+          33,
+          34,
+          45,
+          46,
+          59,
+          63,
+          64,
+          78,
+          82,
+          83,
+          96,
+          124,
+          126,
+          128,
+          130,
+          132,
+          138
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 22,
+        "card_id": 100601,
+        "rank": 19,
+        "rarity": 4,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 503,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1000802,
+            "level": 0
+          },
+          {
+            "factor_id": 1001102,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 2003602,
+            "level": 0
+          },
+          {
+            "factor_id": 2011001,
+            "level": 0
+          },
+          {
+            "factor_id": 2011103,
+            "level": 0
+          },
+          {
+            "factor_id": 2011402,
+            "level": 0
+          },
+          {
+            "factor_id": 2016102,
+            "level": 0
+          },
+          {
+            "factor_id": 2100602,
+            "level": 0
+          },
+          {
+            "factor_id": 10060102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          23,
+          25,
+          26,
+          27,
+          29,
+          30,
+          33,
+          34,
+          36,
+          42,
+          49,
+          63,
+          71,
+          83,
+          85,
+          93,
+          124,
+          126,
+          130,
+          137
+        ],
+        "user_info_summary": null
+      }
+    ],
+    "scenario_id": 4,
+    "create_time": "2026-06-26 08:16:03"
+  },
+  {
+    "trained_chara_id": 3716,
+    "owner_trained_chara_id": 0,
+    "use_type": 0,
+    "card_id": 104001,
+    "name": null,
+    "stamina": 821,
+    "speed": 1165,
+    "power": 1075,
+    "guts": 828,
+    "wiz": 917,
+    "fans": 1017997,
+    "rank_score": 21681,
+    "rank": 24,
+    "proper_distance_short": 7,
+    "proper_distance_mile": 7,
+    "proper_distance_middle": 7,
+    "proper_distance_long": 6,
+    "proper_running_style_nige": 2,
+    "proper_running_style_senko": 7,
+    "proper_running_style_sashi": 7,
+    "proper_running_style_oikomi": 2,
+    "proper_ground_turf": 7,
+    "proper_ground_dirt": 4,
+    "succession_num": 0,
+    "is_locked": 0,
+    "rarity": 3,
+    "talent_level": 5,
+    "chara_grade": 10,
+    "running_style": 3,
+    "nickname_id": 394,
+    "wins": 45,
+    "skill_array": [
+      {
+        "skill_id": 100401,
+        "level": 4
+      },
+      {
+        "skill_id": 200032,
+        "level": 1
+      },
+      {
+        "skill_id": 200042,
+        "level": 1
+      },
+      {
+        "skill_id": 200052,
+        "level": 1
+      },
+      {
+        "skill_id": 200152,
+        "level": 1
+      },
+      {
+        "skill_id": 200282,
+        "level": 1
+      },
+      {
+        "skill_id": 200362,
+        "level": 1
+      },
+      {
+        "skill_id": 200441,
+        "level": 1
+      },
+      {
+        "skill_id": 200452,
+        "level": 1
+      },
+      {
+        "skill_id": 200482,
+        "level": 1
+      },
+      {
+        "skill_id": 200492,
+        "level": 1
+      },
+      {
+        "skill_id": 200582,
+        "level": 1
+      },
+      {
+        "skill_id": 200601,
+        "level": 1
+      },
+      {
+        "skill_id": 200691,
+        "level": 1
+      },
+      {
+        "skill_id": 200702,
+        "level": 1
+      },
+      {
+        "skill_id": 200881,
+        "level": 1
+      },
+      {
+        "skill_id": 201062,
+        "level": 1
+      },
+      {
+        "skill_id": 201113,
+        "level": 1
+      },
+      {
+        "skill_id": 201122,
+        "level": 1
+      },
+      {
+        "skill_id": 201321,
+        "level": 1
+      },
+      {
+        "skill_id": 201362,
+        "level": 1
+      },
+      {
+        "skill_id": 201422,
+        "level": 1
+      },
+      {
+        "skill_id": 201442,
+        "level": 1
+      },
+      {
+        "skill_id": 201451,
+        "level": 1
+      },
+      {
+        "skill_id": 201611,
+        "level": 1
+      },
+      {
+        "skill_id": 201651,
+        "level": 1
+      },
+      {
+        "skill_id": 202092,
+        "level": 1
+      },
+      {
+        "skill_id": 202152,
+        "level": 1
+      },
+      {
+        "skill_id": 210012,
+        "level": 1
+      },
+      {
+        "skill_id": 210032,
+        "level": 1
+      },
+      {
+        "skill_id": 210081,
+        "level": 1
+      },
+      {
+        "skill_id": 210111,
+        "level": 1
+      },
+      {
+        "skill_id": 210131,
+        "level": 1
+      }
+    ],
+    "support_card_list": [
+      {
+        "position": 1,
+        "support_card_id": 30074,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 2,
+        "support_card_id": 30054,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 3,
+        "support_card_id": 20041,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 4,
+        "support_card_id": 20027,
+        "exp": 74990,
+        "limit_break_count": 4
+      },
+      {
+        "position": 5,
+        "support_card_id": 30067,
+        "exp": 118185,
+        "limit_break_count": 4
+      },
+      {
+        "position": 6,
+        "support_card_id": 30063,
+        "exp": 118185,
+        "limit_break_count": 4
+      }
+    ],
+    "is_saved": 1,
+    "race_result_list": [
+      {
+        "turn": 12,
+        "program_id": 1092,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 14,
+        "program_id": 628,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 16,
+        "program_id": 629,
+        "weather": 2,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 17,
+        "program_id": 630,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 19,
+        "program_id": 632,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 20,
+        "program_id": 633,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 21,
+        "program_id": 627,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 23,
+        "program_id": 623,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 24,
+        "program_id": 625,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 25,
+        "program_id": 180,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 27,
+        "program_id": 183,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 29,
+        "program_id": 169,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 30,
+        "program_id": 171,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 31,
+        "program_id": 163,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 33,
+        "program_id": 164,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 34,
+        "program_id": 166,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 36,
+        "program_id": 74,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 37,
+        "program_id": 1023,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 39,
+        "program_id": 104,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 40,
+        "program_id": 82,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 41,
+        "program_id": 109,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 43,
+        "program_id": 1109,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 44,
+        "program_id": 168,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 45,
+        "program_id": 77,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 46,
+        "program_id": 79,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 47,
+        "program_id": 80,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 5
+      },
+      {
+        "turn": 48,
+        "program_id": 81,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 51,
+        "program_id": 1106,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 52,
+        "program_id": 1,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 53,
+        "program_id": 11,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 54,
+        "program_id": 3,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 56,
+        "program_id": 4,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 57,
+        "program_id": 5,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 59,
+        "program_id": 73,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 60,
+        "program_id": 74,
+        "weather": 3,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 62,
+        "program_id": 101,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 63,
+        "program_id": 104,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 64,
+        "program_id": 82,
+        "weather": 1,
+        "ground_condition": 2,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 66,
+        "program_id": 75,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 67,
+        "program_id": 1109,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 68,
+        "program_id": 76,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 69,
+        "program_id": 1026,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 70,
+        "program_id": 79,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 71,
+        "program_id": 80,
+        "weather": 4,
+        "ground_condition": 3,
+        "running_style": 3,
+        "result_rank": 9
+      },
+      {
+        "turn": 72,
+        "program_id": 81,
+        "weather": 1,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 5
+      },
+      {
+        "turn": 74,
+        "program_id": 2020,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 76,
+        "program_id": 2119,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      },
+      {
+        "turn": 78,
+        "program_id": 2216,
+        "weather": 2,
+        "ground_condition": 1,
+        "running_style": 3,
+        "result_rank": 1
+      }
+    ],
+    "win_saddle_id_array": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      21,
+      22,
+      25,
+      26,
+      27,
+      30,
+      31,
+      34,
+      35,
+      38,
+      165,
+      168,
+      45,
+      46,
+      49,
+      59,
+      71,
+      79,
+      85,
+      113,
+      114,
+      117,
+      122,
+      124,
+      126,
+      130,
+      132
+    ],
+    "nickname_id_array": [
+      394
+    ],
+    "factor_info_array": [
+      {
+        "factor_id": 501,
+        "level": 0
+      },
+      {
+        "factor_id": 1102,
+        "level": 0
+      },
+      {
+        "factor_id": 1001501,
+        "level": 0
+      },
+      {
+        "factor_id": 2000402,
+        "level": 0
+      },
+      {
+        "factor_id": 2000502,
+        "level": 0
+      },
+      {
+        "factor_id": 2001503,
+        "level": 0
+      },
+      {
+        "factor_id": 2004903,
+        "level": 0
+      },
+      {
+        "factor_id": 2008802,
+        "level": 0
+      },
+      {
+        "factor_id": 2011102,
+        "level": 0
+      },
+      {
+        "factor_id": 2013202,
+        "level": 0
+      },
+      {
+        "factor_id": 2014202,
+        "level": 0
+      },
+      {
+        "factor_id": 2014402,
+        "level": 0
+      },
+      {
+        "factor_id": 2014502,
+        "level": 0
+      },
+      {
+        "factor_id": 2100302,
+        "level": 0
+      },
+      {
+        "factor_id": 2101602,
+        "level": 0
+      },
+      {
+        "factor_id": 2102002,
+        "level": 0
+      },
+      {
+        "factor_id": 10400102,
+        "level": 0
+      }
+    ],
+    "factor_extend_array": [],
+    "succession_chara_array": [
+      {
+        "position_id": 10,
+        "card_id": 100601,
+        "rank": 20,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 102,
+            "level": 0
+          },
+          {
+            "factor_id": 3102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000303,
+            "level": 0
+          },
+          {
+            "factor_id": 1000802,
+            "level": 0
+          },
+          {
+            "factor_id": 1001202,
+            "level": 0
+          },
+          {
+            "factor_id": 1001702,
+            "level": 0
+          },
+          {
+            "factor_id": 1002101,
+            "level": 0
+          },
+          {
+            "factor_id": 2000102,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 2004902,
+            "level": 0
+          },
+          {
+            "factor_id": 2005802,
+            "level": 0
+          },
+          {
+            "factor_id": 2013202,
+            "level": 0
+          },
+          {
+            "factor_id": 2016503,
+            "level": 0
+          },
+          {
+            "factor_id": 2100302,
+            "level": 0
+          },
+          {
+            "factor_id": 2102502,
+            "level": 0
+          },
+          {
+            "factor_id": 10060102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          2,
+          6,
+          7,
+          10,
+          11,
+          14,
+          15,
+          17,
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          30,
+          34,
+          35
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 20,
+        "card_id": 101001,
+        "rank": 19,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 401,
+            "level": 0
+          },
+          {
+            "factor_id": 3102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000702,
+            "level": 0
+          },
+          {
+            "factor_id": 1000802,
+            "level": 0
+          },
+          {
+            "factor_id": 2001502,
+            "level": 0
+          },
+          {
+            "factor_id": 2005803,
+            "level": 0
+          },
+          {
+            "factor_id": 2013103,
+            "level": 0
+          },
+          {
+            "factor_id": 2013202,
+            "level": 0
+          },
+          {
+            "factor_id": 2016102,
+            "level": 0
+          },
+          {
+            "factor_id": 2100102,
+            "level": 0
+          },
+          {
+            "factor_id": 2100401,
+            "level": 0
+          },
+          {
+            "factor_id": 2102302,
+            "level": 0
+          },
+          {
+            "factor_id": 10100102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          7,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          76,
+          106
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 11,
+        "card_id": 101402,
+        "rank": 17,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 502,
+            "level": 0
+          },
+          {
+            "factor_id": 3302,
+            "level": 0
+          },
+          {
+            "factor_id": 1001201,
+            "level": 0
+          },
+          {
+            "factor_id": 1001703,
+            "level": 0
+          },
+          {
+            "factor_id": 1001802,
+            "level": 0
+          },
+          {
+            "factor_id": 1002301,
+            "level": 0
+          },
+          {
+            "factor_id": 2004601,
+            "level": 0
+          },
+          {
+            "factor_id": 2004901,
+            "level": 0
+          },
+          {
+            "factor_id": 2100102,
+            "level": 0
+          },
+          {
+            "factor_id": 2102203,
+            "level": 0
+          },
+          {
+            "factor_id": 10140202,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          6,
+          7,
+          10,
+          11,
+          12,
+          14,
+          17,
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          34,
+          35,
+          65,
+          85
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 12,
+        "card_id": 105101,
+        "rank": 15,
+        "rarity": 4,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 3102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000701,
+            "level": 0
+          },
+          {
+            "factor_id": 1002101,
+            "level": 0
+          },
+          {
+            "factor_id": 2009902,
+            "level": 0
+          },
+          {
+            "factor_id": 2012401,
+            "level": 0
+          },
+          {
+            "factor_id": 2013602,
+            "level": 0
+          },
+          {
+            "factor_id": 2015301,
+            "level": 0
+          },
+          {
+            "factor_id": 10510102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          7,
+          8,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          35,
+          137
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 21,
+        "card_id": 100601,
+        "rank": 20,
+        "rarity": 3,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 102,
+            "level": 0
+          },
+          {
+            "factor_id": 3102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000303,
+            "level": 0
+          },
+          {
+            "factor_id": 1000802,
+            "level": 0
+          },
+          {
+            "factor_id": 1001202,
+            "level": 0
+          },
+          {
+            "factor_id": 1001702,
+            "level": 0
+          },
+          {
+            "factor_id": 1002101,
+            "level": 0
+          },
+          {
+            "factor_id": 2000102,
+            "level": 0
+          },
+          {
+            "factor_id": 2003302,
+            "level": 0
+          },
+          {
+            "factor_id": 2004902,
+            "level": 0
+          },
+          {
+            "factor_id": 2005802,
+            "level": 0
+          },
+          {
+            "factor_id": 2013202,
+            "level": 0
+          },
+          {
+            "factor_id": 2016503,
+            "level": 0
+          },
+          {
+            "factor_id": 2100302,
+            "level": 0
+          },
+          {
+            "factor_id": 2102502,
+            "level": 0
+          },
+          {
+            "factor_id": 10060102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          2,
+          6,
+          7,
+          10,
+          11,
+          14,
+          15,
+          17,
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          30,
+          34,
+          35
+        ],
+        "user_info_summary": null
+      },
+      {
+        "position_id": 22,
+        "card_id": 105101,
+        "rank": 15,
+        "rarity": 4,
+        "talent_level": 5,
+        "factor_info_array": [
+          {
+            "factor_id": 303,
+            "level": 0
+          },
+          {
+            "factor_id": 3102,
+            "level": 0
+          },
+          {
+            "factor_id": 1000701,
+            "level": 0
+          },
+          {
+            "factor_id": 1002101,
+            "level": 0
+          },
+          {
+            "factor_id": 2009902,
+            "level": 0
+          },
+          {
+            "factor_id": 2012401,
+            "level": 0
+          },
+          {
+            "factor_id": 2013602,
+            "level": 0
+          },
+          {
+            "factor_id": 2015301,
+            "level": 0
+          },
+          {
+            "factor_id": 10510102,
+            "level": 0
+          }
+        ],
+        "win_saddle_id_array": [
+          7,
+          8,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          35,
+          137
+        ],
+        "user_info_summary": null
+      }
+    ],
+    "scenario_id": 1,
+    "create_time": "2026-07-22 23:05:55"
+  }
+]
