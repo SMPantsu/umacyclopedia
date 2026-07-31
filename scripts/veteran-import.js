@@ -104,14 +104,30 @@ function valueToGrade(value) {
   return 'G';
 }
 
+function unescapeHtml(str) {
+  if (!str) return str;
+  return str
+    .replace(/&amp;/g, '&')
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
 function getSkillName(ref, skillId) {
+  // skillsGlobal is a dedicated EN localization table and matches the
+  // game's actual global names (and this site's own icon lookup table).
+  // uma.moe's skills.json "name" field is sometimes a flavor/literal JP
+  // translation instead (e.g. skill 201113 -> "Photon Slash" there, vs the
+  // real global name "Refraction Arc") - so it's only used as a last resort
+  // for IDs the older table doesn't have yet (very recently added skills).
   const idStr = String(skillId);
-  const umamoeName = ref.umamoeSkills[idStr];
-  if (umamoeName) return umamoeName;
   const entry = ref.skillsGlobal[idStr];
   if (Array.isArray(entry) && entry.length > 0) return entry[0];
   const jpEntry = ref.skillsJp[idStr];
   if (Array.isArray(jpEntry) && jpEntry.length > 1) return jpEntry[1];
+  const umamoeName = ref.umamoeSkills[idStr];
+  if (umamoeName) return unescapeHtml(umamoeName);
   return null;
 }
 
