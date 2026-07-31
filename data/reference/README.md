@@ -35,9 +35,17 @@ closely. In testing, this caught every mismatch we found in uma.moe's
 names (uma.moe's `skills.json` has a separate `enname` field that's
 often a more literal/JP-derived translation instead of the official one -
 e.g. skill 201113 is "Refraction Arc" officially, but uma.moe's `enname`
-for it is "Photon Slash"). To refresh: re-pull `assets/skills_all.json`
-from that repo (or GameTora directly, if you find a more current source)
-and rebuild the trimmed `id -> name_en` map the same way.
+for it is "Photon Slash").
+
+To refresh: run `node scripts/refresh-gametora-skills.mjs`, which re-pulls
+`assets/skills_all.json` from that repo and rebuilds the trimmed
+`id -> name_en` map. This also runs automatically on the 1st of every
+month via `.github/workflows/refresh-gametora-skills.yml` (or on-demand
+via that workflow's "Run workflow" button), opening a PR only if the data
+actually changed - review the diff before merging (new entries should be
+real skill names, not placeholders or JP text) rather than auto-merging.
+GameTora itself is Cloudflare-protected and not practical to scrape
+directly; UmaTools' own data pull is what we rely on instead.
 
 ### `umamoe/`
 

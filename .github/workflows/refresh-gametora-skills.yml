@@ -1,0 +1,33 @@
+name: Refresh GameTora skill names
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'  # 1st of every month
+  workflow_dispatch: {}   # manual "Run workflow" button
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/refresh-gametora-skills.mjs
+      - name: Open PR if data changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'Refresh data/reference/gametora_skills.json'
+          title: 'Refresh GameTora skill names'
+          body: |
+            Automated refresh of `data/reference/gametora_skills.json` from
+            [daftuyda/UmaTools](https://github.com/daftuyda/UmaTools)'s
+            `assets/skills_all.json` (`name_en` field).
+
+            Review the diff before merging - new/changed entries should
+            look like real skill names, not placeholders or JP text.
+          branch: refresh-gametora-skills
+          delete-branch: true
